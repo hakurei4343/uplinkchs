@@ -47,10 +47,10 @@ en: "Registered"
 cn: "已注册"
 
 en: "Beginner"
-cn: "Beginner"
+cn: "菜鸟"
 
 en: "Novice"
-cn: "Novice"
+cn: "新手"
 
 en: "Confident"
 cn: "Confident"
@@ -74,16 +74,16 @@ en: "Professional"
 cn: "Professional"
 
 en: "Elite"
-cn: "Elite"
+cn: "精英"
 
 en: "Mage"
 cn: "Mage"
 
 en: "Expert"
-cn: "Expert"
+cn: "专家"
 
 en: "Veteren"
-cn: "Veteren"
+cn: "老手"
 
 en: "Techno-mage"
 cn: "Techno-mage"
@@ -101,7 +101,7 @@ en: "Indiscriminate"
 cn: "Indiscriminate"
 
 en: "Notorious"
-cn: "Notorious"
+cn: "恶名昭著"
 
 en: "Untrustworthy"
 cn: "Untrustworthy"
@@ -1121,10 +1121,10 @@ en: "\nYour money has been refunded."
 cn: "\nYour money has been refunded."
 
 en: "We are about to begin installation of the following hardware item in your gateway machine : \n\n"
-cn: "We are about to begin installation of the following hardware item in your gateway machine : \n\n"
+cn: "我们将开始在您的机器中安装以下硬件设备 : \n\n"
 
 en: "We anticipate this will take 30 - 60 minutes to complete."
-cn: "We anticipate this will take 30 - 60 minutes to complete."
+cn: "我们预计这需要30－60分钟来完成."
 
 en: "Gateway upgrade commencing"
 cn: "Gateway upgrade commencing"
@@ -1151,7 +1151,7 @@ en: "Information for Skilled Agents"
 cn: "Information for Skilled Agents"
 
 en: "Firstly allow us to congratulate you on your recent successes.  We have been following your career with interest.  As an up-and-coming Agent, you will find a number of new opportunities are now available to you.  At this point we feel we should give you an important piece of information.\n\nNow that the stakes are higher, you will certainly begin to encounter computer systems that are more secure than before.  These systems can be difficult to attack.\n\nMost of our Agents now use the HUD-Connection-Analyser to get around these systems.  This item of software was designed by Uplink Corporation specifically for bypassing security systems, and can be purchased from Uplink Internal Services.  It is designed to be used in conjunction with Security-Bypassers, also available from that site.\n\nUplink Corporation wishes you luck."
-cn: "Firstly allow us to congratulate you on your recent successes.  We have been following your career with interest.  As an up-and-coming Agent, you will find a number of new opportunities are now available to you.  At this point we feel we should give you an important piece of information.\n\nNow that the stakes are higher, you will certainly begin to encounter computer systems that are more secure than before.  These systems can be difficult to attack.\n\nMost of our Agents now use the HUD-Connection-Analyser to get around these systems.  This item of software was designed by Uplink Corporation specifically for bypassing security systems, and can be purchased from Uplink Internal Services.  It is designed to be used in conjunction with Security-Bypassers, also available from that site.\n\nUplink Corporation wishes you luck."
+cn: "首先请允许我们向您近来所获得的成就表示祝贺。我们对您的黑客生涯之路充满兴趣。作为一名冉冉升起的黑客新星，您会发现现在更多的机会已经在向您招手。在此我们觉得有必要向您提供一条重要的信息。\n\n随着赏金的提高，您必定会遇到比以前更加安全的电脑系统，这些系统将难以被攻击。\n\n现在我们的大多数黑客都使用HUD-Connection-Analyser来绕过这些系统。这种软件由Uplink公司特意为绕开安全系统而设计，现在可以从Uplink服务中心购买到。它被设计用来和Security-Bypassers联合使用，后者也可以在Uplink服务中心购买。Uplink公司衷心祝您好运。"
 
 en: "Congratulations Agent "
 cn: "Congratulations Agent "
@@ -1355,7 +1355,7 @@ en: "No"
 cn: "否"
 
 en: "Skip the tutorial and return to the main screen"
-cn: "Skip the tutorial and return to the main screen"
+cn: "跳过说明并回到主屏幕"
 
 en: "Error 404"
 cn: "Error 404"
