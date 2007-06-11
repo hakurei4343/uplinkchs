@@ -1154,28 +1154,28 @@ en: "Firstly allow us to congratulate you on your recent successes.  We have bee
 cn: "首先请允许我们向您近来所获得的成就表示祝贺。我们对您的黑客生涯之路充满兴趣。作为一名冉冉升起的黑客新星，您会发现现在更多的机会已经在向您招手。在此我们觉得有必要向您提供一条重要的信息。\n\n随着赏金的提高，您必定会遇到比以前更加安全的电脑系统，这些系统将难以被攻击。\n\n现在我们的大多数黑客都使用HUD-Connection-Analyser来绕过这些系统。这种软件由Uplink公司特意为绕开安全系统而设计，现在可以从Uplink服务中心购买到。它被设计用来和Security-Bypassers联合使用，后者也可以在Uplink服务中心购买。Uplink公司衷心祝您好运。"
 
 en: "Congratulations Agent "
-cn: "Congratulations Agent "
+cn: "祝贺你，黑客 "
 
 en: " - you have reached the next Uplink Rating.\n\nYour rating is now "
-cn: " - you have reached the next Uplink Rating.\n\nYour rating is now "
+cn: " - 你已经达到下一个Uplink等级。\n\n你的等级现在是 "
 
 en: "."
-cn: "."
+cn: "。"
 
 en: "Congratulations"
 cn: "祝贺"
 
 en: "This is a warning Agent "
-cn: "This is a warning Agent "
+cn: "这是一个警告，黑客 "
 
 en: " - your performance recently has been unsatisfactory.\nAs such we have been forced to review your case, and have decided to decrease your Uplink rating.\n\nYour rating is now "
-cn: " - your performance recently has been unsatisfactory.\nAs such we have been forced to review your case, and have decided to decrease your Uplink rating.\n\nYour rating is now "
+cn: " - 你近来的表现不能令人满意。\n鉴于此我们不得不重新评估你的表现, 并且决定降低你的Uplink等级。\n\n你的等级现在是 "
 
 en: ".We hope this is sufficient punishment to make our point clear.\nUplink Corporation will not tolerate failure."
-cn: ".We hope this is sufficient punishment to make our point clear.\nUplink Corporation will not tolerate failure."
+cn: "。我们希望这次的惩罚足够让你认清我们的要求。\nUplink公司决不容忍失败。"
 
 en: "Uplink WARNING"
-cn: "Uplink WARNING"
+cn: "Uplink警告"
 
 en: "Agent %s - your Neuromancer rating appears to have changed.\n\nYour rating is now %s."
 cn: "Agent %s - your Neuromancer rating appears to have changed.\n\nYour rating is now %s."
@@ -1193,10 +1193,10 @@ en: "%dGq of memory"
 cn: "%dGq of memory"
 
 en: "Unfortunately, your new gateway does not have enough space to contain all of your old hardware.  As such, we have been forced to remove the following items from your new system :\n\n"
-cn: "Unfortunately, your new gateway does not have enough space to contain all of your old hardware.  As such, we have been forced to remove the following items from your new system :\n\n"
+cn: "不幸的是，你的新gateway没有足够的空间来容纳你所有的旧硬件。有鉴于此，我们不得不将以下的硬件从你的新系统中移除：\n\n"
 
 en: "Removed hardware items"
-cn: "Removed hardware items"
+cn: "被移除的硬件"
 
 en: "Modem (%d Ghz)"
 cn: "Modem (%d Ghz)"
@@ -1220,7 +1220,7 @@ en: "Bank Computer : \n"
 cn: "Bank Computer : \n"
 
 en: "Bank Account : "
-cn: "Bank Account : "
+cn: "银行帐户： "
 
 en: "\tOwner    : Name:%s\n"
 cn: "\tOwner    : Name:%s\n"
@@ -1301,13 +1301,13 @@ en: "Proxy"
 cn: "Proxy"
 
 en: "Firewall"
-cn: "Firewall"
+cn: "防火墙"
 
 en: "Encrypter"
 cn: "Encrypter"
 
 en: "Monitor"
-cn: "Monitor"
+cn: "监视器"
 
 en: "Government"
 cn: "Government"
@@ -1346,7 +1346,7 @@ en: "Set up complete"
 cn: "Set up complete"
 
 en: "Your Gateway computer has been successfully set up and will accept only your username and password in the future.  When you next start Uplink on your home computer, you will be connected automatically to this Gateway.\n\nIn your email you will find a message from Uplink Corporation, with some useful IP addresses.\nYou will also find the Uplink Test Mission, which will allow you to practice hacking.\n\nWOULD YOU LIKE TO RUN THE TUTORIAL?\n(Recommended for first time users)"
-cn: "Your Gateway computer has been successfully set up and will accept only your username and password in the future.  When you next start Uplink on your home computer, you will be connected automatically to this Gateway.\n\nIn your email you will find a message from Uplink Corporation, with some useful IP addresses.\nYou will also find the Uplink Test Mission, which will allow you to practice hacking.\n\nWOULD YOU LIKE TO RUN THE TUTORIAL?\n(Recommended for first time users)"
+cn: "你的gateway电脑已经成功设置，以后将只接受你的用户名和密码。当你下一次在你的家用电脑上启动Uplink时，你将被自动连接到这个gateway。\n\n在你的电子信箱中你将会发现来自Uplink公司的一封邮件，其中包含了一些有用的IP地址。\n你也会发现一个Uplink测试任务，它会引导你进行黑客练习。\n\n你想运行这个说明吗？\n(推荐新玩家运行)"
 
 en: "Run the tutorial"
 cn: "Run the tutorial"
