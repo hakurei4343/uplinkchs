@@ -1385,7 +1385,7 @@ en: "About us"
 cn: "关于我们"
 
 en: "Welcome to the Uplink Public Access Server.\n\nUplink Corporation maintains the largest list of freelance agents in the world, and we have operated for the last decade with a flawless record of satisfied customers and successful agents.  Our company acts as an anonymous job centre, bringing corporations together with agents who can work for them.  Our company also provides rental of essential gateway computers to all agents, which allow unparalleled security in a high risk environment.\n\nYou are here because you wish to join this company."
-cn: "Welcome to the Uplink Public Access Server.\n\nUplink Corporation maintains the largest list of freelance agents in the world, and we have operated for the last decade with a flawless record of satisfied customers and successful agents.  Our company acts as an anonymous job centre, bringing corporations together with agents who can work for them.  Our company also provides rental of essential gateway computers to all agents, which allow unparalleled security in a high risk environment.\n\nYou are here because you wish to join this company."
+cn: "欢迎来到Uplink公众存取服务器。\n\nUplink Corporation maintains the largest list of freelance agents in the world, and we have operated for the last decade with a flawless record of satisfied customers and successful agents.  Our company acts as an anonymous job centre, bringing corporations together with agents who can work for them.  Our company also provides rental of essential gateway computers to all agents, which allow unparalleled security in a high risk environment.\n\nYou are here because you wish to join this company."
 
 en: "Public server Main Menu"
 cn: "Public server Main Menu"
@@ -5222,7 +5222,7 @@ en: "Player : \n"
 cn: "Player : \n"
 
 en: "sound_musicenabled"
-cn: "sound_musicenabled"
+cn: "声音_启用音乐"
 
 en: "main"
 cn: "main"
@@ -5261,10 +5261,10 @@ en: "Connect to Server"
 cn: "Connect to Server"
 
 en: "Disconnect"
-cn: "Disconnect"
+cn: "断线"
 
 en: "Close this options screen"
-cn: "Close this options screen"
+cn: "关闭选项画面"
 
 en: "network_title"
 cn: "network_title"
@@ -5285,7 +5285,7 @@ en: "localhost"
 cn: "localhost"
 
 en: "Return to Options menu"
-cn: "Return to Options menu"
+cn: "回到选项菜单"
 
 en: "Localhost : %s\nLocal IP  : %s"
 cn: "Localhost : %s\nLocal IP  : %s"
@@ -5408,7 +5408,7 @@ en: "Advanced options"
 cn: "高级选项"
 
 en: "options"
-cn: "options"
+cn: "选项"
 
 en: "Options"
 cn: "选项"
@@ -5513,7 +5513,7 @@ en: "%s options"
 cn: "%s options"
 
 en: "click to Enable or Disable this option"
-cn: "click to Enable or Disable this option"
+cn: "点击以启用或禁用该选项"
 
 en: "enter the new value here"
 cn: "enter the new value here"
@@ -5696,7 +5696,7 @@ en: "Sets the game to run fullscreen or in a window"
 cn: "Sets the game to run fullscreen or in a window"
 
 en: "Enables or disables button animations"
-cn: "Enables or disables button animations"
+cn: "启用或禁用动画按钮"
 
 en: "Enables graphical safemode for troubleshooting"
 cn: "Enables graphical safemode for troubleshooting"
@@ -5705,7 +5705,7 @@ en: "Render a software mouse.  Use to correct mouse problems."
 cn: "Render a software mouse.  Use to correct mouse problems."
 
 en: "Enables or disables music"
-cn: "Enables or disables music"
+cn: "启用或禁用音乐"
 
 en: "Loading uplink options from %s..."
 cn: "Loading uplink options from %s..."
@@ -6020,7 +6020,7 @@ en: "This column shows the date the story was posted"
 cn: "This column shows the date the story was posted"
 
 en: "Subject"
-cn: "Subject"
+cn: "主题"
 
 en: "This column shows the subject of the story"
 cn: "This column shows the subject of the story"
@@ -6899,13 +6899,13 @@ en: "No contacts"
 cn: "No contacts"
 
 en: "SEND MAIL"
-cn: "SEND MAIL"
+cn: "发送邮件"
 
 en: "Remove the send mail screen"
 cn: "Remove the send mail screen"
 
 en: "To"
-cn: "To"
+cn: "到"
 
 en: "Enter recipient name here"
 cn: "Enter recipient name here"
@@ -6914,7 +6914,7 @@ en: "Enter subject here"
 cn: "Enter subject here"
 
 en: "File: None attached"
-cn: "File: None attached"
+cn: "文件：没有附件"
 
 en: "Attach a file to this email"
 cn: "Attach a file to this email"
@@ -6929,13 +6929,13 @@ en: "Clear this screen"
 cn: "Clear this screen"
 
 en: "Send"
-cn: "Send"
+cn: "发送"
 
 en: "Send this email"
-cn: "Send this email"
+cn: "发送邮件"
 
 en: "File: %s"
-cn: "File: %s"
+cn: "文件：%s"
 
 en: "You abandoned the mission."
 cn: "You abandoned the mission."
@@ -8438,13 +8438,13 @@ en: "Apply"
 cn: "应用"
 
 en: "Set the current theme"
-cn: "Set the current theme"
+cn: "设置当前主题"
 
 en: "Restore Default"
 cn: "恢复默认"
 
 en: "Set the theme back to standard"
-cn: "Set the theme back to standard"
+cn: "设置回标准主题"
 
 en: "Defrag the files on your computer"
 cn: "Defrag the files on your computer"
@@ -9068,21 +9068,25 @@ en*: "Parsed command line option : %s %d\n"
 
 en*: "Error parsing command line option : %d"
 
-en*: "graphics_safemode"
+en: "graphics_safemode"
+cn: "图像_安全模式"
 
-en*: "graphics_fullscreen"
+en: "graphics_fullscreen"
+cn: "图像_全屏"
 
 en*: "graphics_screenrefresh"
 
 en*: "graphics_screendepth"
 
-en*: "graphics_softwaremouse"
+en: "graphics_softwaremouse"
+cn: "图像_软鼠标"
 
 en*: "graphics_screenwidth"
 
 en*: "graphics_screenheight"
 
-en*: "game_debugstart"
+en: "game_debugstart"
+cn: "游戏_开始debug"
 
 en*: "=====DEBUGGING INFORMATION ENABLED=====\n"
 
@@ -9850,7 +9854,8 @@ en*: "Sets the width of the screen"
 
 en*: "Sets the height of the screen"
 
-en*: "graphics_buttonanimations"
+en: "graphics_buttonanimations"
+cn: "图像_动画按钮"
 
 en*: "theme.txt"
 
@@ -12964,4 +12969,6 @@ en: "A Fatal Error occured in Uplink.\n\nPlease report this on the Uplink forums
 cn: "A Fatal Error occured in Uplink.\n\nPlease report this on the Uplink forums at\nhttp://www.introversion.co.uk/\n\nUplink will now shut down."
 
 en*: "啊"
+
+en: "无法打开"
 
