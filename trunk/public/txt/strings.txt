@@ -1040,7 +1040,7 @@ en: "Gateway seizure"
 cn: "Gateway seizure"
 
 en: "Your old gateway was recently seized by federal agents, shortly after you blew it up.\nIt seems that no evidence remains of the crime that you didn't commit.\n\nA very lucky escape, if you ask us.\n"
-cn: "Your old gateway was recently seized by federal agents, shortly after you blew it up.\nIt seems that no evidence remains of the crime that you didn't commit.\n\nA very lucky escape, if you ask us.\n"
+cn: "就在你炸掉你的旧gateway后不久，联邦特工找到了它。\n看起来没有任何有关你没有犯下的罪行的证据留下。\n\n不得不说，你很幸运。\n"
 
 en: "Seize Gateway of %s"
 cn: "Seize Gateway of %s"
@@ -1085,7 +1085,7 @@ en: "New Gateway Ready"
 cn: "New Gateway Ready"
 
 en: "We have finished preparing your new gateway machine.  We have installed identical hardware in this new gateway, and we have copied your memory banks onto the new system.\n\nIn order to complete the upgrade, you must now log out from Uplink.  When you next log back in to the system, you will be automatically redirected to your new gateway system.\n\nWe will then immediately dismantle your old system and wipe the memory banks of all data stored.\n\nRegards\n[END]"
-cn: "We have finished preparing your new gateway machine.  We have installed identical hardware in this new gateway, and we have copied your memory banks onto the new system.\n\nIn order to complete the upgrade, you must now log out from Uplink.  When you next log back in to the system, you will be automatically redirected to your new gateway system.\n\nWe will then immediately dismantle your old system and wipe the memory banks of all data stored.\n\nRegards\n[END]"
+cn: "我们已经准备好了你的新gateway。我们在这台新gateway中安装了相同的硬件，并且将存储的数据完整的复制到新系统中。\n\n为了完成升级，你现在必须从Uplink登出。当你下次登录系统的时候，你将会被自动导向到你的新gateway系统。\n\n然后我们将立即拆卸掉你的旧系统，并完全抹除一切存储的数据。\n\n致意。\n[END]"
 
 en: "There was not enough space to fit the memory into your gateway."
 cn: "There was not enough space to fit the memory into your gateway."
@@ -1094,7 +1094,7 @@ en: "Refund from Uplink Corporation"
 cn: "Refund from Uplink Corporation"
 
 en: "There was not enough space to fit the security device into your gateway."
-cn: "There was not enough space to fit the security device into your gateway."
+cn: "没有足够的空间将安全系统安装到你的gateway上。"
 
 en: "Gateway_Nuke"
 cn: "Gateway_Nuke"
@@ -1106,13 +1106,13 @@ en: "Gateway upgrade complete"
 cn: "Gateway upgrade complete"
 
 en: "The following hardware item has been successfully installed in your gateway machine : \n\n"
-cn: "The following hardware item has been successfully installed in your gateway machine : \n\n"
+cn: "下列硬件已经被成功的安装在你的gateway上：\n\n"
 
 en: "Gateway upgrade failed"
-cn: "Gateway upgrade failed"
+cn: "Gateway升级失败"
 
 en: "The following hardware item was not installed in your gateway machine : \n\n"
-cn: "The following hardware item was not installed in your gateway machine : \n\n"
+cn: "你的gateway未安装下列硬件： \n\n"
 
 en: "\n\nReason: "
 cn: "\n\nReason: "
