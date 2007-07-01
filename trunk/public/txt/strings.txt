@@ -740,19 +740,19 @@ en: "I would very much like to continue my subscription to Hacker monthly.  Plea
 cn: "I would very much like to continue my subscription to Hacker monthly.  Please continue to bill my account and send me each issue for the next year."
 
 en: "Agents,\nIf you are reading this email then it means I am dead.  I have been working for Andromeda for the past month on a top secret project - and until yesterday I did not even know what exactly I was coding.\nThis story hit the news and I decided that I should try to find out what was happening with project Revelation - and yesterday I managed to gain access to their stand-alone server room and copy the files that we were working on.\nUnfortunately they saw what I was doing and I had to leave quick, and I haven't had time to analyse the project files yet.  If you read this then they have already caught me.\nARC cannot be trusted.  We must come together as a group and find out what they are up to before something terrible happens.  I don't know if it's already too late."
-cn: "Agents,\nIf you are reading this email then it means I am dead.  I have been working for Andromeda for the past month on a top secret project - and until yesterday I did not even know what exactly I was coding.\nThis story hit the news and I decided that I should try to find out what was happening with project Revelation - and yesterday I managed to gain access to their stand-alone server room and copy the files that we were working on.\nUnfortunately they saw what I was doing and I had to leave quick, and I haven't had time to analyse the project files yet.  If you read this then they have already caught me.\nARC cannot be trusted.  We must come together as a group and find out what they are up to before something terrible happens.  I don't know if it's already too late."
+cn: "黑客，\n如果你现在在读这封email，那说明我已经死了。上个月我在为Andromeda的一个绝密计划工作 - 一直到昨天我都不知道我到底在编什么程序。\n报纸上登出了消息，我决定我应该搞清楚这个Revelation计划到底是怎么一回事 - 昨天我终于能够进入他们的独立服务器，复制了我们正在工作的所有文件。\n不幸的是他们发现了我，我必须马上离开，也没有时间来分析这些有关计划的文件。如果你正在读，那说明他们已经抓住我了。\nARC不可信任。我们必须联合起来，在灾难发生以前搞清楚他们的计划。该死，我不知道是不是已经太晚了。"
 
 en: "internal@%s.net"
 cn: "internal@%s.net"
 
 en: "We have recently heard a rumour going around that says the complete Uplink Agent List was stolen from their very own Internal Services System, and that this list includes a mapping of agent Handles to real-world name.  If true, this data would be of extreme interest to us and our operations.\n\nWe have also heard a rumour, totally unsubstantiated of course, that you might be the Agent who stole the data.  Certainly there are only a handful of agents capable, and you are indeed one.\n\nWe have set up a file Server at the address below, and supplied you with a login.  If the rumour is true, we will be willing to pay you "
-cn: "We have recently heard a rumour going around that says the complete Uplink Agent List was stolen from their very own Internal Services System, and that this list includes a mapping of agent Handles to real-world name.  If true, this data would be of extreme interest to us and our operations.\n\nWe have also heard a rumour, totally unsubstantiated of course, that you might be the Agent who stole the data.  Certainly there are only a handful of agents capable, and you are indeed one.\n\nWe have set up a file Server at the address below, and supplied you with a login.  If the rumour is true, we will be willing to pay you "
+cn: "我们最近听到一则谣言，完整的Uplink黑客名单从他们的内部服务中心被偷走，这份名单包括了所有黑客和他们的真实姓名的对应。 如果这是真的，这份资料对我们的行动将极有裨益。\n\n我们也听说了另一则未经证实的谣言，即你就是偷走那份资料的黑客。有能力做到这件事情的黑客并不多，而你是当中的一个。\n\n我们在附录的地址设立了一个文件服务器，并给你提供了登入。如果谣言是真实的，我们很乐意付 "
 
 en: " for all of the data files and the Agent List program.  Payment will be up to the amount specified - if we dont receive all of the data we will reduce payment accordingly.\n\nIf we have made a mistake and you are not the person with whom we should be talking, then we apologise.  Your ratings will not change if you choose to abandon this mission - it is totally optional.\n"
-cn: " for all of the data files and the Agent List program.  Payment will be up to the amount specified - if we dont receive all of the data we will reduce payment accordingly.\n\nIf we have made a mistake and you are not the person with whom we should be talking, then we apologise.  Your ratings will not change if you choose to abandon this mission - it is totally optional.\n"
+cn: "来买下有关的所有资料文件和黑客名单。报酬与资料量相关——如果我们没有收到所有的资料，报酬也会相应扣除。\n\n如果我们犯了错误，你并不是那个我们要找的人，那么我们表示道歉。你的等级并不会因为你放弃这个任务而有所改变——这个任务完全是可选的。\n"
 
 en: "Our fileserver: \n"
-cn: "Our fileserver: \n"
+cn: "我们的文件服务器：\n"
 
 en: "Login:\n"
 cn: "Login:\n"
@@ -761,10 +761,10 @@ en: "END"
 cn: "END"
 
 en: "Multiple Uplink Agent murders reported"
-cn: "Multiple Uplink Agent murders reported"
+cn: "大批Uplink黑客遭谋杀"
 
 en: "Federal Agents today announced they were investigating a series of murders and suicides, all involving active or retired Uplink Agents.  Within the last two days, eight Uplink Agents of various skill levels have been executed or have committed suicide.\n\nFederal agents are keeping quiet about the identities of those agents killed, and have not suggested any connecting factor other than the fact that they all worked freelance for Uplink Corporation.\n\nMurders of Uplink Agents are rare - Uplink Corporation is very careful at making sure the agent handles are never converted into real-world people, effectively providing anonymity for their agents."
-cn: "Federal Agents today announced they were investigating a series of murders and suicides, all involving active or retired Uplink Agents.  Within the last two days, eight Uplink Agents of various skill levels have been executed or have committed suicide.\n\nFederal agents are keeping quiet about the identities of those agents killed, and have not suggested any connecting factor other than the fact that they all worked freelance for Uplink Corporation.\n\nMurders of Uplink Agents are rare - Uplink Corporation is very careful at making sure the agent handles are never converted into real-world people, effectively providing anonymity for their agents."
+cn: "联邦特工宣布他们正在调查一系列谋杀和自杀事件，被害者全部都是现役的和退休的Uplink黑客。过去两天中，八个黑客等级不同的Uplink黑客遭遇谋杀或自杀。\n\n联邦特工仍然对这些被杀的黑客的身份保持沉默，也没有找出这些案件之间更多的联系因素，除了被害者都为Uplink公司工作这一点以外。\n\n针对Uplink黑客的谋杀理论上很难发生——Uplink公司一直非常小心，给为它工作的黑客们提供匿名保护，以保证这些网络身份绝对不会和现实世界的真实身份对应起来。"
 
 en: "Game obituary: \n"
 cn: "Game obituary: \n"
@@ -791,10 +791,10 @@ en: "Score %d\n"
 cn: "Score %d\n"
 
 en: "You reached the maximum permissable Agent rating for a Demo user.\nYou can visit www.introversion.co.uk to buy the full product."
-cn: "You reached the maximum permissable Agent rating for a Demo user.\nYou can visit www.introversion.co.uk to buy the full product."
+cn: "你已经达到了一个试玩版玩家所能达到的最高等级。\n你可以访问www.introversion.co.uk来购买完整版产品。"
 
 en: "You are playing an illegal copy of Uplink.\nYou can visit www.introversion.co.uk to buy the full product."
-cn: "You are playing an illegal copy of Uplink.\nYou can visit www.introversion.co.uk to buy the full product."
+cn: "你现在正在使用一个Uplink的非法拷贝。\n你可以访问www.introversion.co.uk来购买完整版产品。"
 
 en: "Failed to load user profile\nThe save file is not compatable\n\nSave file is Version [%s]\nRequired Version is  [%s]"
 cn: "Failed to load user profile\nThe save file is not compatable\n\nSave file is Version [%s]\nRequired Version is  [%s]"
@@ -884,10 +884,10 @@ en: "%d:%d:%d, %d/%d/%d\n"
 cn: "%d:%d:%d, %d/%d/%d\n"
 
 en: "Syncronised with real world time\n"
-cn: "Syncronised with real world time\n"
+cn: "与真实世界时间同步\n"
 
 en: "Not Syncronised with real world time\n"
-cn: "Not Syncronised with real world time\n"
+cn: "未与真实世界时间同步\n"
 
 en: "Unrecognised Game Speed"
 cn: "Unrecognised Game Speed"
@@ -899,7 +899,7 @@ en: "Gave mission to %s: %s\n"
 cn: "Gave mission to %s: %s\n"
 
 en: "Time has run out."
-cn: "Time has run out."
+cn: "时间已到。"
 
 en: "%s Attempted mission: %s\n"
 cn: "%s Attempted mission: %s\n"
@@ -935,7 +935,7 @@ en: "MAIL SERVER"
 cn: "MAIL SERVER"
 
 en: "Failed to deliver this email - unknown recipient"
-cn: "Failed to deliver this email - unknown recipient"
+cn: "发送邮件失败 - 未知的接收者"
 
 en: "Message : \n"
 cn: "Message : \n"
@@ -947,7 +947,7 @@ en: "Grow companies"
 cn: "Grow companies"
 
 en: "Generate new mission"
-cn: "Generate new mission"
+cn: "生成新任务"
 
 en: "Check for security breaches"
 cn: "Check for security breaches"
@@ -1016,19 +1016,19 @@ en: "Interest charged"
 cn: "Interest charged"
 
 en: "Uplink Corporation : Monthly fee"
-cn: "Uplink Corporation : Monthly fee"
+cn: "Uplink公司：月费"
 
 en: "Uplink Corporation has deducted the standard monthly membership fee of "
-cn: "Uplink Corporation has deducted the standard monthly membership fee of "
+cn: "Uplink公司已从你的现有帐户中扣除了 "
 
 en: " credits from you current account.\n\nWe are confident you will agree that this represents incredible value for money and wish you another successful and prosperous month with our organisation.\nThank you."
-cn: " credits from you current account.\n\nWe are confident you will agree that this represents incredible value for money and wish you another successful and prosperous month with our organisation.\nThank you."
+cn: "作为月费。\n\n我们相信您会同意这代表了我们之间牢不可破的友谊。希望你和我们合作的下个月也一样成功。\n谢谢。"
 
 en: "Uplink Corporation"
-cn: "Uplink Corporation"
+cn: "Uplink公司"
 
 en: "Uplink monthly fee deducted"
-cn: "Uplink monthly fee deducted"
+cn: "Uplink月费扣除"
 
 en: "Disavowed by Uplink Corporation at "
 cn: "Disavowed by Uplink Corporation at "
@@ -1127,7 +1127,7 @@ en: "We anticipate this will take 30 - 60 minutes to complete."
 cn: "我们预计这需要30－60分钟来完成."
 
 en: "Gateway upgrade commencing"
-cn: "Gateway upgrade commencing"
+cn: "Gateway升级开始"
 
 en: "Item : "
 cn: "Item : "
@@ -1361,55 +1361,55 @@ en: "Error 404"
 cn: "Error 404"
 
 en: "System not found"
-cn: "System not found"
+cn: "系统未找到"
 
 en: "The IP address you specified did not \nhave a valid computer host.\n\nThe system may be temporarily out of action\nand may return shortly."
 cn: "The IP address you specified did not \nhave a valid computer host.\n\nThe system may be temporarily out of action\nand may return shortly."
 
 en: "Failed to establish connection"
-cn: "Failed to establish connection"
+cn: "建立连接失败"
 
 en: "External connections not permitted"
-cn: "External connections not permitted"
+cn: "不允许外部连接"
 
 en: "The computer you tried to access will not accept external connections.\nOnly connections from trusted internal systems will be allowed to connect.\n\nIf you wish to establish a connection to this system,\nyou must first route your connection through a trusted system owned by the same company."
-cn: "The computer you tried to access will not accept external connections.\nOnly connections from trusted internal systems will be allowed to connect.\n\nIf you wish to establish a connection to this system,\nyou must first route your connection through a trusted system owned by the same company."
+cn: "你试图接入的计算机不接受外部连接。\n只有来自受信任的内部系统的连接才被允许接入。\n\n如果你想接入这个系统，\n你必须首先接入一个该公司所有的受信任系统来路由你的连接。"
 
 en: "Upgrade complete"
-cn: "Upgrade complete"
+cn: "升级完成"
 
 en: "Congratulations agent - your are now using your new gateway and your old one is already being dismantled.\n\nIf you view your hardware profile you should see the new gateway in place.\nIf you experience any problems with this new system, please get in contact with us at\nProblems@UplinkCorporation.net."
-cn: "Congratulations agent - your are now using your new gateway and your old one is already being dismantled.\n\nIf you view your hardware profile you should see the new gateway in place.\nIf you experience any problems with this new system, please get in contact with us at\nProblems@UplinkCorporation.net."
+cn: "祝贺你，黑客 - 你现在正在使用你的新gateway，你的旧gateway已被拆除。\n\n如果你查看你的硬件配置，你会发现新gateway已经就位。\n如果你在使用新系统的过程中碰到问题，请与我们联系： \nProblems@UplinkCorporation.net."
 
 en: "About us"
 cn: "关于我们"
 
 en: "Welcome to the Uplink Public Access Server.\n\nUplink Corporation maintains the largest list of freelance agents in the world, and we have operated for the last decade with a flawless record of satisfied customers and successful agents.  Our company acts as an anonymous job centre, bringing corporations together with agents who can work for them.  Our company also provides rental of essential gateway computers to all agents, which allow unparalleled security in a high risk environment.\n\nYou are here because you wish to join this company."
-cn: "欢迎来到Uplink公众存取服务器。\n\nUplink Corporation maintains the largest list of freelance agents in the world, and we have operated for the last decade with a flawless record of satisfied customers and successful agents.  Our company acts as an anonymous job centre, bringing corporations together with agents who can work for them.  Our company also provides rental of essential gateway computers to all agents, which allow unparalleled security in a high risk environment.\n\nYou are here because you wish to join this company."
+cn: "欢迎来到Uplink公众存取服务器。\n\nUplink公司拥有世界上最庞大的自由黑客群体, 我们在过去的十年中保持着完美无暇的运行记录，培养了大批成功的黑客，为客户提供了令人满意的服务。我们公司以匿名工作中心的方式运作，提供需要黑客工作的公司和能为他们工作的黑客的信息。我们公司也为所有黑客提供必要的gateway电脑租赁服务，以保证高风险环境中无可比拟的安全性。\n\n我们相信你必为加入本公司而来。"
 
 en: "Public server Main Menu"
-cn: "Public server Main Menu"
+cn: "公众服务器主目录"
 
 en: "About Us"
 cn: "关于我们"
 
 en: "Find out who we are and what we do"
-cn: "Find out who we are and what we do"
+cn: "我们是谁，我们做什么"
 
 en: "Register as an Agent"
 cn: "成员注册"
 
 en: "Click to register yourself as a new Uplink Agent"
-cn: "Click to register yourself as a new Uplink Agent"
+cn: "点击注册为Uplink黑客"
 
 en: "Registration"
 cn: "注册"
 
 en: "Your Uplink membership package includes : \n\n- A Gateway computer at a secure location.  You will connect to this machine from your home computer when you are working for Uplink.  You can have it upgraded at a later stage if necessary.\n\n- A low interest loan of "
-cn: "Your Uplink membership package includes : \n\n- A Gateway computer at a secure location.  You will connect to this machine from your home computer when you are working for Uplink.  You can have it upgraded at a later stage if necessary.\n\n- A low interest loan of "
+cn: "你的Uplink成员包包括： \n\n- 一部位于安全位置的Gateway电脑。当你为Uplink工作时，你将会从你的家用电脑连接到这部电脑。如果需要，以后你可以为其升级。\n\n- 由Uplink国际银行提供的一笔为数 "
 
 en: " credits with Uplink International Bank, to get you started.\n\n- Access to our Bulletin Board system - the usual place for Uplink Agents to find work.\n\n- You will be officially rated as an Uplink Agent, and we will monitor your progress.  As your rating increases you will find new avenues of work become available."
-cn: " credits with Uplink International Bank, to get you started.\n\n- Access to our Bulletin Board system - the usual place for Uplink Agents to find work.\n\n- You will be officially rated as an Uplink Agent, and we will monitor your progress.  As your rating increases you will find new avenues of work become available."
+cn: "  的低息贷款，作为你的起步资金。\n\n- 接入我们BBS的许可 - Uplink黑客们在这里寻找工作信息。\n\n- 你会作为一个Uplink黑客接受官方评级，我们会密切关注你的表现。你的等级提高时，就可以接更高等级的任务。"
 
 en: "cancel"
 cn: "取消"
