@@ -1433,43 +1433,43 @@ en: "Uplink Registration"
 cn: "Uplink 注册"
 
 en: "Create your agent profile"
-cn: "Create your agent profile"
+cn: "创建你的黑客档案"
 
 en: "name"
-cn: "name"
+cn: "用户名"
 
 en: "Enter your name"
-cn: "Enter your name"
+cn: "输入你的用户名"
 
 en: "Enter the name you wish to use"
-cn: "Enter the name you wish to use"
+cn: "输入你想使用的用户名"
 
 en: "password"
-cn: "password"
+cn: "密码"
 
 en: "Enter your password"
-cn: "Enter your password"
+cn: "输入你的密码"
 
 en: "You will need this to access the Uplink Services Machine"
 cn: "You will need this to access the Uplink Services Machine"
 
 en: "Re-type your password"
-cn: "Re-type your password"
+cn: "重新输入密码"
 
 en: "For verification purposes"
-cn: "For verification purposes"
+cn: "出于验证需要"
 
 en: "Enter your name here"
-cn: "Enter your name here"
+cn: "在此输入你的用户名"
 
 en: "Enter your password here"
-cn: "Enter your password here"
+cn: "在此输入你的密码"
 
 en: "Re-type your password here"
-cn: "Re-type your password here"
+cn: "在此重新输入密码"
 
 en: "Uplink Corporation will not ask for any more personal details.  In the event of you being charged with illegal operations, our corporation will be forced to disavow all knowledge of your actions, however you will be safe from arrest as your real world address will never be stored."
-cn: "Uplink Corporation will not ask for any more personal details.  In the event of you being charged with illegal operations, our corporation will be forced to disavow all knowledge of your actions, however you will be safe from arrest as your real world address will never be stored."
+cn: "Uplink公司不会再要求更多有关你的个人信息。如果你由于非法行为被起诉，本公司将否认与你的行为有关，但你不用担心会被逮捕，因为我们不会存储你的真实地址。"
 
 en: "Done"
 cn: "完成"
@@ -1484,10 +1484,10 @@ en: "Your Gateway computer"
 cn: "Your Gateway computer"
 
 en: "Registration is now taking place.\n\nAs part of your membership, we will assign you a Gateway computer system in your chosen server room.  This will act as your jumping off point to the rest of the Net.  When you next log in you will connect directly from your home computer to this gateway machine, and from there to the rest of the world.\n\nShould any of your actions be traced back to your Gateway, Uplink Corporation will disavow any knowledge of your actions and will destroy your account.  Your Gateway machine will also be destroyed.\n\nRental of your Gateway computer will cost "
-cn: "Registration is now taking place.\n\nAs part of your membership, we will assign you a Gateway computer system in your chosen server room.  This will act as your jumping off point to the rest of the Net.  When you next log in you will connect directly from your home computer to this gateway machine, and from there to the rest of the world.\n\nShould any of your actions be traced back to your Gateway, Uplink Corporation will disavow any knowledge of your actions and will destroy your account.  Your Gateway machine will also be destroyed.\n\nRental of your Gateway computer will cost "
+cn: "注册已经完成。\n\n作为你会员资格的一部分，我们会在你所选的服务器房间内为你分配一台gateway电脑系统，它将成为你通向网络的起始跳跃点。当你下次登录时，你将会从你的家用电脑上直接连接到这部gateway机器，从这里再连接到其他的网络。\n\n一旦任何你的行动被反向追踪到你的gateway， Uplink公司将否认与你的行为有任何关联，并销毁你的帐户。你的Gateway机器也将同时被销毁。\n\n租用Gateway电脑的月租金是 "
 
 en: " credits a month."
-cn: " credits a month."
+cn: " 。"
 
 en: "connecting"
 cn: "connecting"
@@ -1499,7 +1499,7 @@ en: "Gateway connection failed"
 cn: "Gateway connection failed"
 
 en: "We have been unable to connect you to your Gateway computer.\n\nThis may be due to a fault in out communications lines, and if this is the case then we apologise and ask you to try again later.\n\nWe are aware that Uplink Agents occasionally suffer 'difficulties' with their Gateway systems and sometimes require a new one as a result.  If this is the case, click YES below and we will assign you a new gateway.  (There will be an administrative charge of 1000 credits if you take this action.)  Otherwise, click NO to log off and try again later.\n\nRent a new Gateway computer?"
-cn: "We have been unable to connect you to your Gateway computer.\n\nThis may be due to a fault in out communications lines, and if this is the case then we apologise and ask you to try again later.\n\nWe are aware that Uplink Agents occasionally suffer 'difficulties' with their Gateway systems and sometimes require a new one as a result.  If this is the case, click YES below and we will assign you a new gateway.  (There will be an administrative charge of 1000 credits if you take this action.)  Otherwise, click NO to log off and try again later.\n\nRent a new Gateway computer?"
+cn: "我们无法将你连接到你的Gateway电脑。\n\n这也许是因为我们的通信网络出了故障，如果是这样，我们向你表示抱歉，请稍后再登录。\n\n我们知道有些Uplink黑客的Gateway系统偶尔会出“问题”，有些时候他们直接换一部新的Gateway。如果情况确实如此，点击下方的“是”，我们便会为你分配一部新的Gateway。 (如果你这样做，将会向你收取管理费1000元)  否则， 点击“否”取消登录并稍后再尝试。\n\n要租借一部新的Gateway电脑吗?"
 
 en: "yes"
 cn: "是"
@@ -1709,7 +1709,7 @@ en: "Help/Secure Connections/Introduction"
 cn: "Help/Secure Connections/Introduction"
 
 en: "When you connect to a computer from your links screen, a direct connection is established between  your Gateway and the computer.  This type of connection is very easy to trace back to your Gateway.  If a connection is traced back to your Gateway, you will receive blame for the crime and risk legal action.  \n\nThis section of the help files will teach you to establish safe connections that cannot be traced back to you."
-cn: "When you connect to a computer from your links screen, a direct connection is established between  your Gateway and the computer.  This type of connection is very easy to trace back to your Gateway.  If a connection is traced back to your Gateway, you will receive blame for the crime and risk legal action.  \n\nThis section of the help files will teach you to establish safe connections that cannot be traced back to you."
+cn: "当你连接到你的连接屏幕中的一台电脑时，你的Gateway和这台电脑之间就建立了一个直接连接。这种连接很容易反向追踪到你的gateway。一旦连接反向追踪到你的Gateway，你就会被定位、起诉、乃至面临种种法律手段。\n\n这一部分帮助文件将会教你如何建立无法反向追踪到你的安全连接。"
 
 en: "Return"
 cn: "Return"
@@ -1718,19 +1718,19 @@ en: "Help/Secure Connections/Call bouncing"
 cn: "Help/Secure Connections/Call bouncing"
 
 en: "The first step in establishing a secure untracable connection is to route your connection through multiple servers all over the world.  In order to trace you, the agents on the target machine will be forced to trace each link individually, which takes time.  They will get you eventually, but it will take much longer and you will have warning before they finally get back to you.  \n\nCall bouncing can be set up from the main map screen - simply click on each location to route the call through, clicking finally on the target as the final node in the chain.  Then click on the connect button to establish the connection."
-cn: "The first step in establishing a secure untracable connection is to route your connection through multiple servers all over the world.  In order to trace you, the agents on the target machine will be forced to trace each link individually, which takes time.  They will get you eventually, but it will take much longer and you will have warning before they finally get back to you.  \n\nCall bouncing can be set up from the main map screen - simply click on each location to route the call through, clicking finally on the target as the final node in the chain.  Then click on the connect button to establish the connection."
+cn: "建立一个无法被追踪的安全连接的第一步就是将你的连接路由全世界的多个服务器。为了追踪你，目标服务器上的特工不得不一步一步的追踪每个连接，这会耗费他们的时间。当然最终他们会追踪到你，但那所需要的时间长的多，你也会在他们最终抓住你之前收到警告。\n\n呼叫跳跃可以在主地图屏幕上设置 - 简单的点击不同的服务器来路由你的连接，最后点击目标服务器来作为这个链路的最终节点。然后点击连接按钮来建立连接。"
 
 en: "Help/Secure Connections/Active traces"
 cn: "Help/Secure Connections/Active traces"
 
 en: "Whenever you begin to act suspiciously, the target machine will begin to trace you.  Many computers are running security software which begins a trace on certain key actions - such as trying hundreds of passwords very fast (eg a Dictionary Hacker), deleting logs or use of the admin account.  \n\nWhilst you are connected you will be traced with an Active Trace - the agents on the target machine trace the physical lines that you are using.  This method can result in a trace back to your Gateway in as little as one minute.  You can see an active trace as it happens on your mini-map, which should provide ample warning before the trace completes.  You are strongly advised to disconnect before an active trace is completed."
-cn: "Whenever you begin to act suspiciously, the target machine will begin to trace you.  Many computers are running security software which begins a trace on certain key actions - such as trying hundreds of passwords very fast (eg a Dictionary Hacker), deleting logs or use of the admin account.  \n\nWhilst you are connected you will be traced with an Active Trace - the agents on the target machine trace the physical lines that you are using.  This method can result in a trace back to your Gateway in as little as one minute.  You can see an active trace as it happens on your mini-map, which should provide ample warning before the trace completes.  You are strongly advised to disconnect before an active trace is completed."
+cn: "每当你开始进行可疑的行动时，目标服务器就会开始追踪你。许多电脑都运行安全软件，会在探测到特殊行为时开始追踪。这些特殊行为包括快速试探密码（比如使用词典破解器），删除日志或者使用管理员帐户等等。\n\n当你连接上时，就会有一个主动追踪开始追踪你 - 目标服务器上的黑客通过你所使用的物理连接来进行反向追踪。这种方法可以在短短一分钟内反向追踪到你的gateway。你可以在你的迷你地图上看见这个主动追踪的进展情况，这样能在这个追踪完成之前提供给你足够的警告。我们强烈建议你在这个主动追踪完成之前断开连接。"
 
 en: "Help/Secure Connections/Passive traces"
 cn: "Help/Secure Connections/Passive traces"
 
 en: "Whenever you use call bouncing to connect to a computer, you will leave logs behind on each computer used.  Normally this is not a problem, but this information can be used against you.  If you disconnect before an active trace has completed, the company that owned that computer may begin a Passive Trace. \n\nThey will dig up any logs left by you and trace you that way.  It can take longer - usually several hours, but the results can be just as severe.  Because of this, you should make every effort to delete the logs you leave.\n\nYou never need to delete all the logs on every system you bounce through.  Deleting the logs on one system will be sufficient to break the chain and prevent traces from proceding."
-cn: "Whenever you use call bouncing to connect to a computer, you will leave logs behind on each computer used.  Normally this is not a problem, but this information can be used against you.  If you disconnect before an active trace has completed, the company that owned that computer may begin a Passive Trace. \n\nThey will dig up any logs left by you and trace you that way.  It can take longer - usually several hours, but the results can be just as severe.  Because of this, you should make every effort to delete the logs you leave.\n\nYou never need to delete all the logs on every system you bounce through.  Deleting the logs on one system will be sufficient to break the chain and prevent traces from proceding."
+cn: "每当你使用跳跃连接来连接一部电脑的时候，你就会在你使用过的每部电脑上留下日志信息。通常情况下这不是个问题，但这种信息也可能对你不利。如果你在一个主动追踪完成之前断开连接，拥有目标电脑的公司就会展开一个被动追踪。\n\n他们会找出你留下的所有日志信息，并通过这种方法来追踪你。这种方法为时更长 - 通常要花几个小时，但是所造成的结果一样严重。基于此，你应该在你离开之前删除掉你留下的日志信息。\n\n你并不需要在你路由经过的每个系统上删除这些日志信息，只需要在其中一个系统上删除日志，这就足以打断整个链路，使得追踪无法继续。。"
 
 en: "Help/Secure Connections/Trace tracking"
 cn: "Help/Secure Connections/Trace tracking"
