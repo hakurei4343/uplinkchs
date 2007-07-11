@@ -2720,25 +2720,25 @@ en: "Steal valuable scientific research documents"
 cn: "Steal valuable scientific research documents"
 
 en: "Due to a lack of enthusiasm on the part of our recruitment department, one of our market competitors has pulled several months ahead with their research program.  Given our current situation, we have concluded that the best way to close this gap is for us to steal the research data they have gathered.  This will be your mission.\n\nTheir research files are stored on the system below, and will be heavily protected.  You will need to copy the files, break the security on them in any way you see fit, then copy the files onto our own fileserver.\n\n"
-cn: "Due to a lack of enthusiasm on the part of our recruitment department, one of our market competitors has pulled several months ahead with their research program.  Given our current situation, we have concluded that the best way to close this gap is for us to steal the research data they have gathered.  This will be your mission.\n\nTheir research files are stored on the system below, and will be heavily protected.  You will need to copy the files, break the security on them in any way you see fit, then copy the files onto our own fileserver.\n\n"
+cn: "由于我们的部分员工缺少工作热情，现在我们的一个竞争者的研究进度已经比我们快了好几个月。基于现在的情况，我们认为能够最快缩短我们和他们差距的方法就是把他们的研究资料搞到手。这就是你的任务。 \n\n他们的研究资料存放在下面的系统中，受到重重保护。不管你用什么方法，突破他们的安全系统，复制文件，然后将它们传送到我们的文件服务器上。\n\n"
 
 en: "Copy large and secure corporate database"
 cn: "Copy large and secure corporate database"
 
 en: "Our establishment is very anxious to find out more about the inner workings of one of our rivals, and we have determined after several weeks of investigation that their primary corporate database is stored at the location shown below.  We want you to enter this system and steal all of the data files.\n\nThese files will be well protected and encrypted - you will need to break this security, before copying the stolen database to our own fileserver, location below.\n\n"
-cn: "Our establishment is very anxious to find out more about the inner workings of one of our rivals, and we have determined after several weeks of investigation that their primary corporate database is stored at the location shown below.  We want you to enter this system and steal all of the data files.\n\nThese files will be well protected and encrypted - you will need to break this security, before copying the stolen database to our own fileserver, location below.\n\n"
+cn: "我们公司的高层非常想知道我们的一个对手的工作进展情况，经过数周的调查我们已经发现他们的公司主数据库的地址，如文末所附。我们想要你进入那个系统，偷取所有的资料文件。\n\n这些文件被加密并受到保护 - 你必须首先攻破安全系统，然后将整个数据库复制到我们的文件服务器，地址如下。\n\n"
 
 en: "Break into High Security System and steal customer records"
 cn: "Break into High Security System and steal customer records"
 
 en: "It has come to our attention that one of our competitors has amassed an extensive customer database which would prove to be of great help to our market research team.  We want you to compromise the security of the system below, copy all of the customer data and decrypt it.  Then copy the files onto our own temporary file server.\n\n"
-cn: "It has come to our attention that one of our competitors has amassed an extensive customer database which would prove to be of great help to our market research team.  We want you to compromise the security of the system below, copy all of the customer data and decrypt it.  Then copy the files onto our own temporary file server.\n\n"
+cn: "我们注意到我们的一个竞争对手建立了一个庞大的用户资料数据库，这对于我们的市场部可能会很有用。我们想要你侵入那个系统，复制所有的用户资料并解密，然后复制到我们的临时文件服务器。\n\n"
 
 en: "Copy proprietary source code database"
 cn: "Copy proprietary source code database"
 
 en: "As you may be aware we are currently in direct competition with another rival corporation to develop a software product whcih will no doubt dominate the market once released.  Unfortunately, due to circumstances beyond our control, they have managed to pull several months ahead.  We believe the best course of action is for us to copy their program source code and use it to help our product provide adequate competition.\nBreak into the computer system below, copy anything that looks like source code and break any security systems in place on the data files.  Then copy those files onto our own file server.\n\n"
-cn: "As you may be aware we are currently in direct competition with another rival corporation to develop a software product whcih will no doubt dominate the market once released.  Unfortunately, due to circumstances beyond our control, they have managed to pull several months ahead.  We believe the best course of action is for us to copy their program source code and use it to help our product provide adequate competition.\nBreak into the computer system below, copy anything that looks like source code and break any security systems in place on the data files.  Then copy those files onto our own file server.\n\n"
+cn: "你可能注意到我们现在正和一个对手进行直接竞争，开发一个一旦上市就注定可以垄断市场的软件产品。 不幸的是，出于某些我们无法控制的情况，他们的研发进度比我们快了好几个月。我们相信最好的解决方法就是拿到他们的程序源代码来优化我们的产品，这样才能使我们重新回到同一起跑线上，开始一个公平的竞争。\n侵入下面的电脑系统，攻破安全系统，复制所有看上去像是程序源代码的文件，然后将它们复制到我们的文件服务器。\n\n"
 
 en: "Target computer : "
 cn: "Target computer : "
@@ -2777,28 +2777,28 @@ en: "Destroy scientific research currently in progress"
 cn: "Destroy scientific research currently in progress"
 
 en: "One of our competitors has unfortunately gained a lead and has nearly completed some scientific research which will be damaging to our corporate agenda.\nBreak into the computer system below and destroy ALL files you find on their file server.  You must also ensure all backups are totally wiped out.\n"
-cn: "One of our competitors has unfortunately gained a lead and has nearly completed some scientific research which will be damaging to our corporate agenda.\nBreak into the computer system below and destroy ALL files you find on their file server.  You must also ensure all backups are totally wiped out.\n"
+cn: "我们的某个竞争者的一项科研计划已经几乎开发完成，这一点我们非常不愿意看到。\n侵入下面的电脑系统，摧毁他们文件服务器上所有的文件。别忘记，任何备份都要一并予以销毁。\n"
 
 en: "Destroy corporate data of a rival company"
 cn: "Destroy corporate data of a rival company"
 
 en: "We are becoming tired of the competition provided by a rival firm and we have decided to put an end to their activities.\nBreak into their main computer system (ip below) and destroy ALL files on their system.\n"
-cn: "We are becoming tired of the competition provided by a rival firm and we have decided to put an end to their activities.\nBreak into their main computer system (ip below) and destroy ALL files on their system.\n"
+cn: "我们已经厌倦了我们和某个对手之间无止境的竞争，希望给这一切划上一个句号。\n侵入他们的主服务器，摧毁其系统上的所有文件。\n"
 
 en: "Destroy customer records on a sales system"
 cn: "Destroy customer records on a sales system"
 
 en: "We are in direct competition with another rival sales system and wish to bring our conflict to a quick end.  Break into their primary sales system shown below and delete all files on their computer.\n"
-cn: "We are in direct competition with another rival sales system and wish to bring our conflict to a quick end.  Break into their primary sales system shown below and delete all files on their computer.\n"
+cn: "我们和某个对手的销售系统处于直接竞争关系，我们希望这一切能够尽快得到解决。侵入他们的主销售系统，删除其上的所有文件。\n"
 
 en: "Destroy rival software in development"
 cn: "Destroy rival software in development"
 
 en: "As you may be aware we are trying to promote our new software system but another corporation has developed a rival tool which we feel may harm our sales.  Gain access to their main development server (below) and destroy ALL files you find.  You must also ensure all backups are totally destroyed.\n"
-cn: "As you may be aware we are trying to promote our new software system but another corporation has developed a rival tool which we feel may harm our sales.  Gain access to their main development server (below) and destroy ALL files you find.  You must also ensure all backups are totally destroyed.\n"
+cn: "我们现在正准备发布我们的新软件系统，但是某个竞争对手开发了一个可能会对我们的销售造成损害的类似系统。侵入他们的研发服务器，删除你能找到的所有文件。记得确保任何备份文件也要全部销毁。\n"
 
 en: "It would be in your interests to remove any traces of your actions, as the company will not be pleased when they discover what you have done.\n\nTARGET COMPUTER : \n"
-cn: "It would be in your interests to remove any traces of your actions, as the company will not be pleased when they discover what you have done.\n\nTARGET COMPUTER : \n"
+cn: "你最好记得抹掉任何你行动的痕迹，因为目标公司一旦发现你的所作所为，他们肯定不会很高兴。\n\n目标电脑： \n"
 
 en: "LOCATION: "
 cn: "LOCATION: "
