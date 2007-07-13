@@ -3194,7 +3194,7 @@ en: "Frame a user for computer crimes"
 cn: "Frame a user for computer crimes"
 
 en: "A member of the public has been interfering with our plans recently and we believe his arrest and conviction for computer crimes will put his operation at an end.\nPerform a break in on a high-priority computer system and ensure that this man is charged with the crime.  He must be jailed for several years.\n"
-cn: "A member of the public has been interfering with our plans recently and we believe his arrest and conviction for computer crimes will put his operation at an end.\nPerform a break in on a high-priority computer system and ensure that this man is charged with the crime.  He must be jailed for several years.\n"
+cn: "最近有人妨碍我们的计划，我们认为让他以计算机犯罪的罪名被逮捕能够终止他的行为。\n侵入一个高级计算机系统，然后把罪名栽到他的头上。至少保证他在里面蹲上个几年。\n"
 
 en: "HACKING"
 cn: "HACKING"
@@ -3203,7 +3203,7 @@ en: "Frame a man for bank fraud"
 cn: "Frame a man for bank fraud"
 
 en: "We need this man to be arrested and charged for breaking into a bank and attempting some kind of financial fraud.\nWe would like you to use the bank server specified below.\n\nPerform some form of illegal operation (such as disabling some of their security systems and making sure they notice you) then modify the records so that he is incriminated.\n\n\nTARGET BANK:\n"
-cn: "We need this man to be arrested and charged for breaking into a bank and attempting some kind of financial fraud.\nWe would like you to use the bank server specified below.\n\nPerform some form of illegal operation (such as disabling some of their security systems and making sure they notice you) then modify the records so that he is incriminated.\n\n\nTARGET BANK:\n"
+cn: "我们想要这个家伙被逮捕，并以侵入银行系统并试图进行金融犯罪的罪名被起诉。\n我们希望你使用下面指定的银行服务器。\n\n干一些违法的事情（比如破坏他们的安全系统，并且保证他们注意到你）然后修改记录，让这个家伙担上罪名。\n\n\n目标银行：\n"
 
 en: "\nIP: "
 cn: "\nIP: "
@@ -3215,7 +3215,7 @@ en: "Frame a user for destruction of data."
 cn: "Frame a user for destruction of data."
 
 en: "Our corporation has recently found a way to kill two birds with one proverbial stone.  We wish to destroy some valuable research data, whilst at the same time incriminating one of our long standing enemies for the crime.\n\nBreak into the computer below and destroy all data files.  Then modify the logs so that this man is charged with the crime and sent to jail.\n\n\nTARGET COMPUTER:\n"
-cn: "Our corporation has recently found a way to kill two birds with one proverbial stone.  We wish to destroy some valuable research data, whilst at the same time incriminating one of our long standing enemies for the crime.\n\nBreak into the computer below and destroy all data files.  Then modify the logs so that this man is charged with the crime and sent to jail.\n\n\nTARGET COMPUTER:\n"
+cn: "我们公司最近发现一个一箭双雕的好机会。我们希望摧毁一些很有价值的研究资料，同时把罪名栽到一个我们长久以来的敌人头上。\n\n侵入下面的计算机系统，销毁所有的资料文件。然后修改日志，让那个家伙顶罪并被抓进去喝茶。\n\n\n目标电脑：\n"
 
 en: "DESTROYALL"
 cn: "DESTROYALL"
@@ -3317,16 +3317,16 @@ en: "Elite agent required for destruction of computer system"
 cn: "Elite agent required for destruction of computer system"
 
 en: "One of our competitors has made the critical mistake of becoming over dependent on one of their primary computer systems, and we intend to take advantage of this oversight.\nWe want you to put the computer system below out of action, permenantly.\nUse any means necessary, including virus attacks or system resets, but all data must be destroyed and the system itself must be shut down.\n\nTarget : "
-cn: "One of our competitors has made the critical mistake of becoming over dependent on one of their primary computer systems, and we intend to take advantage of this oversight.\nWe want you to put the computer system below out of action, permenantly.\nUse any means necessary, including virus attacks or system resets, but all data must be destroyed and the system itself must be shut down.\n\nTarget : "
+cn: "我们的一个竞争对手犯了一个很严重的错误，他们过于依赖他们的计算机系统了，我们认为这一点可以加以好好利用。\n我们想要你让下面指定的计算机系统永久性的失去功能。\n无论使用什么方法，病毒攻击或者强制重启系统都无所谓，总之保证所有的资料都被摧毁，并且系统被关闭。\n\n目标： "
 
 en: "\nIP : "
 cn: "\nIP : "
 
 en: "\nOnce you have completed the task, send a mail to "
-cn: "\nOnce you have completed the task, send a mail to "
+cn: "\n完成任务以后，发送邮件至 "
 
 en: " and we will determine if you have been successful.\nEND"
-cn: " and we will determine if you have been successful.\nEND"
+cn: " 我们会评估你的任务完成情况。\nEND"
 
 en: "The system is owned by %s"
 cn: "The system is owned by %s"
@@ -3338,7 +3338,7 @@ en: "Highly skilled Agent required for removal job"
 cn: "Highly skilled Agent required for removal job"
 
 en: "Recently this man has become quite an annoyance and we would like him removed.  We do not care how you do it, as long as his life is destroyed by the time you have finished.  \n\nTARGET : "
-cn: "Recently this man has become quite an annoyance and we would like him removed.  We do not care how you do it, as long as his life is destroyed by the time you have finished.  \n\nTARGET : "
+cn: "最近这个家伙变得越发讨厌，我们想让他消失。怎么做都无所谓，总之保证这个家伙的人生终结就可以了。\n\n目标： "
 
 en: "\n\nOnce you have completed the task, send a mail to "
 cn: "\n\nOnce you have completed the task, send a mail to "
@@ -3398,7 +3398,7 @@ en: "You haven't copied very much of the data - we'll need more before we pay yo
 cn: "You haven't copied very much of the data - we'll need more before we pay you."
 
 en: "We've reviewed your recent mission to copy data files.\nIt looks like you got most of the files but some are missing.\nWe've decided to reduce your remaining payment to %dc."
-cn: "We've reviewed your recent mission to copy data files.\nIt looks like you got most of the files but some are missing.\nWe've decided to reduce your remaining payment to %dc."
+cn: "我们检查了你发送过来的资料文件。\n看起来大部分文件收到了，但是有一部分文件没有到达我们手中。\n我们决定按比例扣除你的任务酬金 %dc."
 
 en: "Your recent mission"
 cn: "Your recent mission"
@@ -3425,7 +3425,7 @@ en: "That person has not yet been arrested.  We will not make payment until then
 cn: "That person has not yet been arrested.  We will not make payment until then."
 
 en: "The person was arrested but not for the crimes we specifically asked for.  As such we will not be making payment."
-cn: "The person was arrested but not for the crimes we specifically asked for.  As such we will not be making payment."
+cn: "此人被逮捕了，但是并非是以我们特别指定的罪名。基于此我们不打算支付酬金。"
 
 en: "We've determined that the money was transfered into an account owned by that person, but we do not believe he was personally responsible.\n\nWe want the name of the Hacker who performed the transfer."
 cn: "We've determined that the money was transfered into an account owned by that person, but we do not believe he was personally responsible.\n\nWe want the name of the Hacker who performed the transfer."
@@ -3440,7 +3440,7 @@ en: "Problems with mission completion"
 cn: "Problems with mission completion"
 
 en: "It appears the target system was shut down, but the files were not deleted.\nThis means the company will most likely be able to recover the data.\n\nAs such, we will only be paying you half the remaining money.\n\nIn future, you should delete all files before shutting the system down."
-cn: "It appears the target system was shut down, but the files were not deleted.\nThis means the company will most likely be able to recover the data.\n\nAs such, we will only be paying you half the remaining money.\n\nIn future, you should delete all files before shutting the system down."
+cn: "看起来目标系统是被关闭了，但是资料并没有被完全删除。\n\n基于此，我们付给你一半酬金。\n\n下次记得关闭系统前先删除所有文件。"
 
 en: "We have not heard word yet that the system has been destroyed."
 cn: "We have not heard word yet that the system has been destroyed."
@@ -3800,13 +3800,13 @@ en: "Our Beliefs"
 cn: "Our Beliefs"
 
 en: "THE ANDROMEDA FOUNDATION IS BUILT ON ITS CORE FIVE BELIEFS\n\n1. The Internet, once the saviour of free speech and anonymity, has been completely taken over by the evils of capitalism.\n\n2. The common man has been reduced to a series of numbers and his life has been made an item of public record.\n\n3. The Government is using the Internet to catalogue and control the population.\n\n4. The destruction of the Anonymity of the Internet has removed with it the last remnants of Human creativity.\n\n5. Fundamentally, the wide-spread usage of the Internet has led to a new class divide - Those that know, and those that do not."
-cn: "THE ANDROMEDA FOUNDATION IS BUILT ON ITS CORE FIVE BELIEFS\n\n1. The Internet, once the saviour of free speech and anonymity, has been completely taken over by the evils of capitalism.\n\n2. The common man has been reduced to a series of numbers and his life has been made an item of public record.\n\n3. The Government is using the Internet to catalogue and control the population.\n\n4. The destruction of the Anonymity of the Internet has removed with it the last remnants of Human creativity.\n\n5. Fundamentally, the wide-spread usage of the Internet has led to a new class divide - Those that know, and those that do not."
+cn: "ANDROMEDA建立在它的五个核心信念之上。\n\n1. 曾经是自由言论和思想代言人的互联网，如今已经堕落成为邪恶资本主义的工具\n\n2. 普通人类的生活已经成为公共记录的一部分\n\n3. 政府使用互联网来对人民进行分类和管理\n\n4. 互联网匿名性质的毁灭标志着人类创造性的最后覆灭\n\n5.最后，互联网的广泛使用标志着新的等级分类 - 一部分人知道，另一部分人不知道"
 
 en: "Our Support"
 cn: "Our Support"
 
 en: "It is heartening to know that we are not alone in our beliefs.\n\nThe Andromeda group has the support of a number of high profile people and organisations.\n\nThis puts us in a situation where we can make a real difference.\n\nThe time is near."
-cn: "It is heartening to know that we are not alone in our beliefs.\n\nThe Andromeda group has the support of a number of high profile people and organisations.\n\nThis puts us in a situation where we can make a real difference.\n\nThe time is near."
+cn: "令人振奋的是我们并不孤独。\n\nAndromeda得到许多个人和组织的支持。\n\n这使得我们有能力改变现状。\n\n那个时刻就要到来了。"
 
 en: "Arunmor"
 cn: "Arunmor"
@@ -3854,7 +3854,7 @@ en: "Your recent submission"
 cn: "Your recent submission"
 
 en: "Let us be the first to congratulate you Agent - we have been totally unable to find any copies of Revelation and we had been hoping that you would decide to work for us.\n\nThanks to your submission, we will now be able to catch up with the research of our counter virus to Revelation.  We have already deposited the full reward into your account.\n\nWe will have some more work for you soon regarding this project.  We will let you know."
-cn: "Let us be the first to congratulate you Agent - we have been totally unable to find any copies of Revelation and we had been hoping that you would decide to work for us.\n\nThanks to your submission, we will now be able to catch up with the research of our counter virus to Revelation.  We have already deposited the full reward into your account.\n\nWe will have some more work for you soon regarding this project.  We will let you know."
+cn: "让我们祝贺你，黑客 - 我们没有找到任何与Revelation有关的东西，我们希望你能为我们工作。 and we had been hoping that you would decide to work for us.\n\nThanks to your submission, we will now be able to catch up with the research of our counter virus to Revelation.  We have already deposited the full reward into your account.\n\nWe will have some more work for you soon regarding this project.  We will let you know."
 
 en: "Let us be the first to congratulate you Agent - we have been totally unable to recover Revelation from our damaged machines and we had been hoping that somebody out there would have a copy of it.\n\nOf course, we won't ask where you got it, nor will we let it become known who sent it too us.\n\nThanks to your submission, we will now be able to pull several weeks ahead of Revelation.  We have already deposited the full reward of 25000c into your account.\n\nWe may have some more work for you in future.\n\nOnce again thank you for your contribution to project Faith."
 cn: "Let us be the first to congratulate you Agent - we have been totally unable to recover Revelation from our damaged machines and we had been hoping that somebody out there would have a copy of it.\n\nOf course, we won't ask where you got it, nor will we let it become known who sent it too us.\n\nThanks to your submission, we will now be able to pull several weeks ahead of Revelation.  We have already deposited the full reward of 25000c into your account.\n\nWe may have some more work for you in future.\n\nOnce again thank you for your contribution to project Faith."
