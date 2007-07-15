@@ -3845,7 +3845,7 @@ en: "Welcome to ARC"
 cn: "Welcome to ARC"
 
 en: "Thank you for replying to our offer, agent.  We knew that you would make the right decision.\n\nAs it happens, we have some work for you to get started on immediately.\nWe are getting ready to test out Revelation and we want you to help.  Please read the attached mission description and get started as soon as possible.\n\nNo doubt you will incur some expenses for this mission, so please accept a small donation of 10000c to help you with any equipment you might need.\n\nThe attached file is to be used as part of your mission.  DO NOT ATTEMPT TO RUN THE ATTACHED PROGRAM LOCALLY.\n\n[END]"
-cn: "Thank you for replying to our offer, agent.  We knew that you would make the right decision.\n\nAs it happens, we have some work for you to get started on immediately.\nWe are getting ready to test out Revelation and we want you to help.  Please read the attached mission description and get started as soon as possible.\n\nNo doubt you will incur some expenses for this mission, so please accept a small donation of 10000c to help you with any equipment you might need.\n\nThe attached file is to be used as part of your mission.  DO NOT ATTEMPT TO RUN THE ATTACHED PROGRAM LOCALLY.\n\n[END]"
+cn: "谢谢你接受我们的邀请，黑客。我们知道你会做出正确的决定。\n\n正好我们手头有些工作需要你去完成。\n我们已经准备好对Revelation进行测试，你正好能帮上忙。请阅读附件里的任务描述，尽快开始工作。\n\n毫无疑问你会需要一些任务经费，我们已经为你准备好了10000c，你可以尽情购买需要用到的工具。\n\n附件里的文件是任务的一部分。决不要在本地机器上运行附件！\n\n[END]"
 
 en: "Arunmor [Faith project]"
 cn: "Arunmor [Faith project]"
@@ -3854,13 +3854,13 @@ en: "Your recent submission"
 cn: "Your recent submission"
 
 en: "Let us be the first to congratulate you Agent - we have been totally unable to find any copies of Revelation and we had been hoping that you would decide to work for us.\n\nThanks to your submission, we will now be able to catch up with the research of our counter virus to Revelation.  We have already deposited the full reward into your account.\n\nWe will have some more work for you soon regarding this project.  We will let you know."
-cn: "让我们祝贺你，黑客 - 我们没有找到任何与Revelation有关的东西，我们希望你能为我们工作。 and we had been hoping that you would decide to work for us.\n\nThanks to your submission, we will now be able to catch up with the research of our counter virus to Revelation.  We have already deposited the full reward into your account.\n\nWe will have some more work for you soon regarding this project.  We will let you know."
+cn: "让我们祝贺你，黑客 - 我们认为你和Revelation并没有什么牵连，并且希望你能为我们工作。\n\n借助你的帮助，我们现在能够赶上针对Revelation的对抗病毒的研发进度。我们已经将全部酬金打入你的帐户。\n\n关于这个任务我们以后还会有一些工作需要你去做。我们会和你保持联系。"
 
 en: "Let us be the first to congratulate you Agent - we have been totally unable to recover Revelation from our damaged machines and we had been hoping that somebody out there would have a copy of it.\n\nOf course, we won't ask where you got it, nor will we let it become known who sent it too us.\n\nThanks to your submission, we will now be able to pull several weeks ahead of Revelation.  We have already deposited the full reward of 25000c into your account.\n\nWe may have some more work for you in future.\n\nOnce again thank you for your contribution to project Faith."
-cn: "Let us be the first to congratulate you Agent - we have been totally unable to recover Revelation from our damaged machines and we had been hoping that somebody out there would have a copy of it.\n\nOf course, we won't ask where you got it, nor will we let it become known who sent it too us.\n\nThanks to your submission, we will now be able to pull several weeks ahead of Revelation.  We have already deposited the full reward of 25000c into your account.\n\nWe may have some more work for you in future.\n\nOnce again thank you for your contribution to project Faith."
+cn: "让我们首先祝贺你，黑客 - 我们无法从我们被损坏的机器中提取出Revelation，只好寄希望于有人保存了一份它的备份。看来你就是那个人。\n\n当然，我们不会问你从哪里得到它的，也不会让任何人知道是谁把它发给我们的。一切都将完全保密。\n\n借助你的帮助，我们现在已经赶在了Revelation的前面。我们已经将全部酬金25000c打入你的帐户。\n\n以后我们还会有一些工作需要你完成。\n\n再次感谢你对Faith的计划的贡献。"
 
 en: "Thank you for your recent submission of the Revelation virus, and congratulations on finding such a rare item.  Unfortunately, we already have a copy of this version of the virus, so what you have sent is will not prove useful.\n\nAs such, we are unable to pay you any reward.  If you find any newer versions, please send them to us."
-cn: "Thank you for your recent submission of the Revelation virus, and congratulations on finding such a rare item.  Unfortunately, we already have a copy of this version of the virus, so what you have sent is will not prove useful.\n\nAs such, we are unable to pay you any reward.  If you find any newer versions, please send them to us."
+cn: "感谢你最近发来的Revelation病毒，能找到它想必很不容易。不幸的是，这个病毒版本我们已经有了它的备份，所以你发来的病毒并没有什么帮助。 \n\n基于此，我们无法支付你酬金。如果你能得到更新的版本，请发送给我们。"
 
 en: "Faith"
 cn: "Faith"
@@ -3872,7 +3872,7 @@ en: "Unusual hiring practices noticed by analysts"
 cn: "Unusual hiring practices noticed by analysts"
 
 en: "Andromeda Research Corporation, otherwise known as ARC, have been extremely busy lately.\n\nThe company has been hiring all of the top Uplink Agents for the past couple of weeks, sometimes posting several missions in one day.\n\nDetails are thin but it appears that the work done is very vague in nature - ARC are keeping quiet about the ultimate goal of this work and all of the Agents involved are sworn to secrecy.  Analysts predict that ARC has spent over fifty-thousand credits in the last week alone on agent fees.\n\nAt the time of writing, ARC was unwilling to comment."
-cn: "Andromeda Research Corporation, otherwise known as ARC, have been extremely busy lately.\n\nThe company has been hiring all of the top Uplink Agents for the past couple of weeks, sometimes posting several missions in one day.\n\nDetails are thin but it appears that the work done is very vague in nature - ARC are keeping quiet about the ultimate goal of this work and all of the Agents involved are sworn to secrecy.  Analysts predict that ARC has spent over fifty-thousand credits in the last week alone on agent fees.\n\nAt the time of writing, ARC was unwilling to comment."
+cn: "缩写为ARC的Andromeda研究公司最近工作非常繁忙。\n\n过去几周内这家公司雇佣了所有的Uplink顶级黑客，有时一天就布置几个任务。\n\n细节尚不清楚，但是这项计划的一切都笼罩在谜团中 - ARC将这项计划的目标列为高度机密，所有参与工作的黑客都三缄其口。分析家们估计ARC在过去一周内就支付了超过50000c作为黑客酬金。\n\n报道截止时，ARC尚未发表任何评论。"
 
 en: "Speak friend, and enter"
 cn: "Speak friend, and enter"
@@ -3899,10 +3899,10 @@ en: "Click to close this screen"
 cn: "Click to close this screen"
 
 en: "One of the top ranking Uplink Agents has broken the silence over the recent activity of ARC (Andromeda Research Corporation) and raised doubts over the morality of the work being done.\n\nThe announcement comes less than a month after ARC began recruiting all the top agents for work on some unspecified project.\n\nThe man in question, known as Agent "
-cn: "One of the top ranking Uplink Agents has broken the silence over the recent activity of ARC (Andromeda Research Corporation) and raised doubts over the morality of the work being done.\n\nThe announcement comes less than a month after ARC began recruiting all the top agents for work on some unspecified project.\n\nThe man in question, known as Agent "
+cn: "一位Uplink顶级黑客打破了关于ARC（Andromeda研究公司）的沉默，对他们正在进行的计划的道德性提出了质疑。\n\n这项声明的提出离ARC开始雇佣所有顶尖黑客开发某项神秘计划还不到一个月的时间。\n\n提出质疑的黑客代号为 "
 
 en: ", is on one of the top ranked Agents in the world and is well respected throughout the hacker community.\n\nHe states that 'We don't know anything about this company ARC - some of the work that i've seen done for them is highly suspicious and could be used in a very destructive manner if properly exploited.  ARC are relying on the unofficial code of honour of Uplink Agents - that they won't discuss what they were working on.  Someone needs to come forward and explain what this company is up to.'\n\nOnce again, ARC refused to comment, but did say that a press release was imminent."
-cn: ", is on one of the top ranked Agents in the world and is well respected throughout the hacker community.\n\nHe states that 'We don't know anything about this company ARC - some of the work that i've seen done for them is highly suspicious and could be used in a very destructive manner if properly exploited.  ARC are relying on the unofficial code of honour of Uplink Agents - that they won't discuss what they were working on.  Someone needs to come forward and explain what this company is up to.'\n\nOnce again, ARC refused to comment, but did say that a press release was imminent."
+cn: "，他是世界范围内的顶级黑客之一，在黑客社区得到广泛的尊敬。\n\n他表示“我们对这个ARC公司一无所知 - 他们交给我的一些工作看起来非常可疑，这些成果使用不当的话可以造成毁灭性的破坏。ARC利用了Uplink黑客视为荣誉的一种特性 - 他们不会讨论他们正在进行的工作。必须有人站出来解释ARC公司的目的。”\n\nARC仍然拒绝发表评论，但他们宣布不久将会召开新闻发布会。"
 
 en: "High ranking Agent raises doubts over ARC"
 cn: "High ranking Agent raises doubts over ARC"
