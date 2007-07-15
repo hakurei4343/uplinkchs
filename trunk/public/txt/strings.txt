@@ -3908,16 +3908,16 @@ en: "High ranking Agent raises doubts over ARC"
 cn: "High ranking Agent raises doubts over ARC"
 
 en: "In a suprising development in the mystery of Andromeda Research Corporation (ARC), the number one rated Uplink Agent has come forward and tried to re-assure the community.\n\nThis comes two days after Agent "
-cn: "In a suprising development in the mystery of Andromeda Research Corporation (ARC), the number one rated Uplink Agent has come forward and tried to re-assure the community.\n\nThis comes two days after Agent "
+cn: "围绕着Andromeda研究公司(ARC)的谜团迅速的扩大，Uplink排行第一的黑客站了出来试图安抚黑客社群。\n\n这发生在黑客 "
 
 en: " publicly expressed concern that ARC were hiring agents to work on some kind of weapon.\n\nThe Agent, known amoungst the hacker community as "
-cn: " publicly expressed concern that ARC were hiring agents to work on some kind of weapon.\n\nThe Agent, known amoungst the hacker community as "
+cn: " 公开表示ARC雇佣黑客开发某种武器的两天之后。\n\n这位代号为 "
 
 en: ", says in his statement that 'I have been working for ARC on a confidential project for the past two weeks.  The project is immensly ambitious in nature but is nothing to worry about.  ARC have been keeping the public in the dark to protect their trade secrets.  Uplink Agents should not be afraid of accepting jobs from this company.'\n'Some people have said they think ARC are building some kind of military weapon - I can say that I have had full access to the ARC Central Mainframe for the past week and there is nothing of the sort on the system.  What they are doing is being kept under wraps but it is definately not a weapon.'\n\nAgent "
-cn: ", says in his statement that 'I have been working for ARC on a confidential project for the past two weeks.  The project is immensly ambitious in nature but is nothing to worry about.  ARC have been keeping the public in the dark to protect their trade secrets.  Uplink Agents should not be afraid of accepting jobs from this company.'\n'Some people have said they think ARC are building some kind of military weapon - I can say that I have had full access to the ARC Central Mainframe for the past week and there is nothing of the sort on the system.  What they are doing is being kept under wraps but it is definately not a weapon.'\n\nAgent "
+cn: "的黑客在黑客社区中享有崇高威望。在他的声明中，他表示“我已经为ARC的一项秘密计划工作了两个星期。这项计划的野心很大，但是没有什么好担心的。 ARC向公众保密只是为了保护他们的商业机密。  Uplink黑客们可以放心接受ARC公司的工作。”\n“有些人说ARC是在开发某种军事武器 - 过去一周我有进入ARC中心服务器的完全权限，我可以说没有任何有关这方面的东西存在。他们正在开发的计划很神秘，但绝不是什么武器。”\n\n黑客 "
 
 en: " is a well respected hacker with years of experience and his comments will certainly re-assure the community."
-cn: " is a well respected hacker with years of experience and his comments will certainly re-assure the community."
+cn: " 在黑客界是老前辈，广受尊敬。他的发言毫无疑问可以安抚黑客社群中弥漫的不安情绪。"
 
 en: "Top Uplink Agent re-assures community"
 cn: "Top Uplink Agent re-assures community"
@@ -3968,7 +3968,7 @@ en: "Top agent working for ARC found dead"
 cn: "Top agent working for ARC found dead"
 
 en: "[Autosend - 7 day delay expired]\n[Sent to ALL-AGENTS]\n\nAgents,\nIf you are reading this email then it means I am dead.  I have been working for Andromeda for the past month on a top secret project - and until yesterday I did not even know what exactly I was coding.\n\nThis story hit the news and I decided that I should try to find out what was happening with project Revelation - and yesterday I managed to gain access to their stand-alone server room and copy the files that we were working on.\n\nUnfortunately they saw what I was doing and I had to leave quick, and I haven't had time to analyse the project files yet.  If you read this then they have already caught me.\n\nARC cannot be trusted.  We must come together as a group and find out what they are up to before something terrible happens.  I don't know if it's already too late."
-cn: "[Autosend - 7 day delay expired]\n[Sent to ALL-AGENTS]\n\nAgents,\nIf you are reading this email then it means I am dead.  I have been working for Andromeda for the past month on a top secret project - and until yesterday I did not even know what exactly I was coding.\n\nThis story hit the news and I decided that I should try to find out what was happening with project Revelation - and yesterday I managed to gain access to their stand-alone server room and copy the files that we were working on.\n\nUnfortunately they saw what I was doing and I had to leave quick, and I haven't had time to analyse the project files yet.  If you read this then they have already caught me.\n\nARC cannot be trusted.  We must come together as a group and find out what they are up to before something terrible happens.  I don't know if it's already too late."
+cn: "[自动发送 - 七天延时已到]\n[发送给所有黑客]\n黑客们，\n如果你现在在读这封email，那说明我已经死了。上个月我在为Andromeda的一个绝密计划工作 - 一直到昨天我都不知道我到底在编什么程序。\n报纸上登出了消息，我决定我应该搞清楚这个Revelation计划到底是怎么一回事 - 昨天我终于能够进入他们的独立服务器，复制了我们正在工作的所有文件。\n不幸的是他们发现了我，我必须马上离开，也没有时间来分析这些有关计划的文件。如果你正在读，那说明他们已经抓住我了。\nARC不可信任。我们必须联合起来，在灾难发生以前搞清楚他们的计划。该死，我不知道是不是已经太晚了。"
 
 en: "Agent %s"
 cn: "Agent %s"
@@ -3977,10 +3977,10 @@ en: "Warning about ARC"
 cn: "Warning about ARC"
 
 en: "Uplink Corporation has issued a formal warning to all of its agents, warning them against accepting work for Andromeda Research Corporation (ARC).\n\nIn a statement released today, they say 'Uplink Corporation is currently investigating the claim that ARC have been developing some kind of high-tech weapon, using the expertise of freelance Uplink agents to assist them.  Federal agents have been called in to assist and are also persuing the matter of a recent suicide, which they believe may have been a related murder.\n\n'Until we can determine if these charges have any truth in them, we must insist that all Uplink Agents refuse any work being offered to them from ARC or anyone working for that company.  Anyone caught working for this company will lose their Uplink status immediately.\n\n"
-cn: "Uplink Corporation has issued a formal warning to all of its agents, warning them against accepting work for Andromeda Research Corporation (ARC).\n\nIn a statement released today, they say 'Uplink Corporation is currently investigating the claim that ARC have been developing some kind of high-tech weapon, using the expertise of freelance Uplink agents to assist them.  Federal agents have been called in to assist and are also persuing the matter of a recent suicide, which they believe may have been a related murder.\n\n'Until we can determine if these charges have any truth in them, we must insist that all Uplink Agents refuse any work being offered to them from ARC or anyone working for that company.  Anyone caught working for this company will lose their Uplink status immediately.\n\n"
+cn: "Uplink公司已经向它的所有黑客发布了一项正式警告，要求他们不要再接收Andromeda研究公司(ARC)的任何工作。\n\n在昨天发表的一项声明中，他们宣称“Uplink公司正在调查有关ARC利用Uplink黑客的协助来开发某种高科技武器的指控。联邦特工已经介入调查，他们也在调查一桩与之相关的被认为伪装成自杀案的谋杀案。\n\n“直到我们调查清楚这些指控为止，我们要求所有的Uplink黑客拒绝来自于ARC公司的任何工作。违反此项规定者一旦被发现，将会立即从Uplink黑客名单中被除名。\n\n"
 
 en: "'In addition, all news and data related to ARC will be classified and restricted to those agents with fully registered accounts.  Those agents using the Demo Uplink client will not be able to view any more of this information, in the interests of our own internal security.\n\n'Any agents using the Demo Uplink client who wish to purchase the full client can do so by visiting www.introversion.co.uk'"
-cn: "'In addition, all news and data related to ARC will be classified and restricted to those agents with fully registered accounts.  Those agents using the Demo Uplink client will not be able to view any more of this information, in the interests of our own internal security.\n\n'Any agents using the Demo Uplink client who wish to purchase the full client can do so by visiting www.introversion.co.uk'"
+cn: "“此外，所有有关ARC的新闻和资料将会被分级，只允许拥有完整注册帐户的黑客浏览。使用Uplink试用版客户端的黑客将不能浏览任何有关的信息，这是出于内部安全性的考虑。\n\n“使用Uplink试用版客户端的黑客可以通过访问www.introversion.co.uk来购买完整客户端版本。”"
 
 en: "Formal warning issued by Uplink Corporation"
 cn: "Formal warning issued by Uplink Corporation"
