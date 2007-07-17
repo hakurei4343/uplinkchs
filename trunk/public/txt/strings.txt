@@ -4031,22 +4031,22 @@ en: "Earlier today Arunmor Corporation shut down all of its primary computer sys
 cn: "今天早些时候Arunmor公司关闭了它的所有主服务器系统，并且切断了他们的内部网络和因特网的连接。相信这样的行为会对他们的商业运作造成不小的打击。\n\nArunmor宣称他们得到消息，一批为他们的对手Andromeda研究公司工作的黑客将会攻击他们的系统。Arunmor没有说明为什么他们怀疑ARC。据信他们得到了一些内部消息。\n\n这项最新的控告无疑是对最近已经卷入重重事件的Andromeda研究公司又一次打击。"
 
 en: "The Arunmor virus outbreak - a special report"
-cn: "The Arunmor virus outbreak - a special report"
+cn: "Arunmor病毒爆发 - 特别报导"
 
 en: "Arunmor Corporation recently suffered an attack from a new computer virus, dubbed by industry experts as 'Revelation'.\n\nThis virus has never been seen before and contains a payload capable of destroying almost any computer it is used against.  Currently the virus does not appear to spread particularly fast and it is limited to systems owned by the target company, but it is believed that whoever is responsible is probably still working on improving it.\n\nRecently a high ranking Uplink Agent contacted us and suggested that Andromeda Research Corporation might be connected to this viral outbreak.  Agents have been assigned the task of investigating."
-cn: "Arunmor Corporation recently suffered an attack from a new computer virus, dubbed by industry experts as 'Revelation'.\n\nThis virus has never been seen before and contains a payload capable of destroying almost any computer it is used against.  Currently the virus does not appear to spread particularly fast and it is limited to systems owned by the target company, but it is believed that whoever is responsible is probably still working on improving it.\n\nRecently a high ranking Uplink Agent contacted us and suggested that Andromeda Research Corporation might be connected to this viral outbreak.  Agents have been assigned the task of investigating."
+cn: "Arunmor公司正遭受一种名为“Revelation”的新型电脑病毒的攻击。\n\n这种病毒以前从未被发现，其破坏力极为巨大。到目前为止病毒的传播速度并不快，传播范围还只限于Arunmor公司的系统。但是相信研制这种病毒的人仍然在改进它。\n\n最近一位Uplink高级黑客联系了我们，并指出Andromeda研究公司与这起病毒爆发事件有关。特工们正在调查之中。"
 
 en: "Arunmor : we'll retaliate"
-cn: "Arunmor : we'll retaliate"
+cn: "Arunmor : 我们会报仇"
 
 en: "Following the recent attempted attack on the Arunmor computer network, Arunmor have announced that they have begun work on a new project - dubbed 'Faith'. The aim of this project is to stop the release of destructive computer viruses onto the Net.\n\nA company spokesman said 'We cannot allow any virus, including the so called Revelation virus, to roam freely around our corporate networks.  Project Faith will actively seak out Revelation and other destructive viruses, and will totally eradicate them.  At this moment we are seeking Government assistance as this project could help everyone.  The recent attempted attack on our network highlighted how weak Internet security is.  We intend to put a stop to this.'\n\nArunmor has taken the unprecented step of offering a reward of 25000 credits to anyone who can help them with their research into Revelation.  Anyone with any data related to this virus should send it to internal@Arunmor.net to claim their reward."
-cn: "Following the recent attempted attack on the Arunmor computer network, Arunmor have announced that they have begun work on a new project - dubbed 'Faith'. The aim of this project is to stop the release of destructive computer viruses onto the Net.\n\nA company spokesman said 'We cannot allow any virus, including the so called Revelation virus, to roam freely around our corporate networks.  Project Faith will actively seak out Revelation and other destructive viruses, and will totally eradicate them.  At this moment we are seeking Government assistance as this project could help everyone.  The recent attempted attack on our network highlighted how weak Internet security is.  We intend to put a stop to this.'\n\nArunmor has taken the unprecented step of offering a reward of 25000 credits to anyone who can help them with their research into Revelation.  Anyone with any data related to this virus should send it to internal@Arunmor.net to claim their reward."
+cn: "在Arunmor公司网络遭受病毒攻击之后，Arunmor宣布他们将开始一项新计划 - 名为“Faith”。该计划的目标是阻止毁灭性的电脑病毒在网络上传播。\n\n公司发言人称“我们决不允许任何电脑病毒，包括这个Revelation在内，随意的在我们的公司网络上肆虐。Faith计划将主动搜寻Revelation以及其他电脑病毒，然后一劳永逸的将它们根除。我们将寻求政府帮助，因为这项计划对所有人都有益。近来对我们网络的病毒攻击充分显示了现阶段的互联网安全性是多么薄弱。我们将改变这一点。”\n\nArunmor悬赏高达25000c的赏金，奖励任何能帮助他们研究Revelation的人。如果你有该病毒的相关资料，把它发送给internal@Arunmor.net，就可以领到赏金。"
 
 en: "New Uplink service available"
 cn: "New Uplink service available"
 
 en: "In light of the recent developments related to Revelation and Faith, Uplink Corporation has installed a new system which will allow agents to track the progress of the two rival viruses.\n\nA new option has appeared in the main menu, titled 'Faith Progress'.  Clicking this option will show you the current latest versions of both virusus.  This data is based on reports of these programs on the Web, so they may not be entirely accurate.\n\n"
-cn: "In light of the recent developments related to Revelation and Faith, Uplink Corporation has installed a new system which will allow agents to track the progress of the two rival viruses.\n\nA new option has appeared in the main menu, titled 'Faith Progress'.  Clicking this option will show you the current latest versions of both virusus.  This data is based on reports of these programs on the Web, so they may not be entirely accurate.\n\n"
+cn: "基于对Revelation和Faith的关注，Uplink公司安装了一个新系统，能让黑客实时跟踪这两种病毒的研究进展情况。\n\n主目录上添加了一个名为“Faith进展”的链接。点击它就可以看到这两种病毒的最新版本。所有的资料都来源于网络报导。所以并不保证完全精确。\n\n"
 
 en: "Faith Progress"
 cn: "Faith Progress"
@@ -4058,43 +4058,43 @@ en: "Faith V Revelation"
 cn: "Faith V Revelation"
 
 en: "Arunmor Corporation have been working hard on researching the recently discovered Revelation project, and have released details of their findings.\n\n'Revelation is the most destructive computer virus we have ever seen' said the CEO of Arunmor Corporation earlier today.  'At first we thought it was targetted specifically at us. It has now become clear that the aim of Revelation is to totally destroy the Internet, from the inside.\n\n'Once released, it will spead like wildfire to all the main systems, then eventually to the entire Internet, destroying everything in its path.  Its payload is extremely well designed and will take down any system it comes up against.'\n\n"
-cn: "Arunmor Corporation have been working hard on researching the recently discovered Revelation project, and have released details of their findings.\n\n'Revelation is the most destructive computer virus we have ever seen' said the CEO of Arunmor Corporation earlier today.  'At first we thought it was targetted specifically at us. It has now become clear that the aim of Revelation is to totally destroy the Internet, from the inside.\n\n'Once released, it will spead like wildfire to all the main systems, then eventually to the entire Internet, destroying everything in its path.  Its payload is extremely well designed and will take down any system it comes up against.'\n\n"
+cn: "Arunmor公司近来全力研究Revelation，并透露了他们的部分发现。\n\n“Revelation将成为有史以来最具破坏力的电脑病毒”，Arunmor公司的CEO今天早些时候说。“起初我们以为这种病毒只针对我们。然而现在Revelation的真正目标已经清楚了，那就是从内部摧毁整个互联网。\n\n“一旦被释放，它就会像野火一样扩散到所有的主服务器系统，最终毁灭整个互联网，任何挡在它路上的东西都会被碾碎。它经过精心设计，能够摧毁一切它想摧毁的系统。”\n\n"
 
 en: "'We have hired a small number of capable Uplink Agents to help work against this.'\n\n"
-cn: "'We have hired a small number of capable Uplink Agents to help work against this.'\n\n"
+cn: "“我们雇佣了一批Uplink高级黑客来帮助对抗它。”\n\n"
 
 en: "We will be posting missions on the Uplink BBS mission board.  Any agents that can help us will be well rewarded, and will be fighting for a good cause.\n\n'The offer of 25000c for any data on related to Revelation is still open, and will remain open for the next 48 hours.'\n\n"
-cn: "We will be posting missions on the Uplink BBS mission board.  Any agents that can help us will be well rewarded, and will be fighting for a good cause.\n\n'The offer of 25000c for any data on related to Revelation is still open, and will remain open for the next 48 hours.'\n\n"
+cn: "我们将会在Uplink BBS任务版上发布任务。任何帮助我们的黑客都能得到报酬，同时也是在为一项正义事业而奋斗。\n\n“为任何有关Revelation的资料提供的25000c奖金仍然有效，并且在未来两天内也是如此。”\n\n"
 
 en: "'Our Faith project is now aiming to provide a counter-virus that will stop Revelation in its tracks.'\n"
-cn: "'Our Faith project is now aiming to provide a counter-virus that will stop Revelation in its tracks.'\n"
+cn: "“我们的Faith计划的目标就是研制一种能够阻止Revelation蔓延的病毒。”\n"
 
 en: "Federal Agents today began an investigation into the activities of Andromeda Research Corporation."
-cn: "Federal Agents today began an investigation into the activities of Andromeda Research Corporation."
+cn: "联邦特工今天展开了针对Andromeda研究公司的调查。"
 
 en: "Arunmor release details on Revelation"
 cn: "Arunmor release details on Revelation"
 
 en: "Federal Agents today made their first public announcement on their investigation into Andromeda Research Corporation (ARC).\n\n'Our investigation so far has uncovered a number of disturbing facts, however no concrete evidence has yet been discovered' said a Federal Spokesman. 'It would appear that ARC are developing a software tool in an attempt to damage the operation of the Internet. So far no evidence has been found and no witnesses have come forward to back this up.'\n\n'It is our belief that ARC were responsible for the murder of "
-cn: "Federal Agents today made their first public announcement on their investigation into Andromeda Research Corporation (ARC).\n\n'Our investigation so far has uncovered a number of disturbing facts, however no concrete evidence has yet been discovered' said a Federal Spokesman. 'It would appear that ARC are developing a software tool in an attempt to damage the operation of the Internet. So far no evidence has been found and no witnesses have come forward to back this up.'\n\n'It is our belief that ARC were responsible for the murder of "
+cn: "联邦特工今天召开了关于他们对Andromeda研究公司(ARC)调查情况的第一个新闻发布会。\n\n“我们已经发现了一些相关事实，但是还没有找到任何决定性的证据。”一位联邦发言人说。“看起来ARC正在研发一种试图摧毁互联网运作的软件。但是现在还没有找到任何证据，也没有任何人站出来证实这一点。”\n\n“我们相信ARC对黑客 "
 
 en: " and possibly one other, but until we aquire evidence we will be unable to act in any legal way.'\n\nMost importantly, we have determined that Andromeda Research Corporation is privately owned and controlled by the secretive group 'Andromeda', and that the CEO and the Managing Director of ARC are both core members of this group.  Our profile of Andromeda lists them as well funded Anti-Capitalist Techno-Anarchists, which would seem to fit the charges against them.  So far, we have not had any success in finding this group.'\n\n'Their only real-world presence that we are aware of is their Public Access Terminal, but the registered contact details of that site are all fake.'\n\n'We intend to continue our investigation and appeal for anyone with any information to come forward.'"
-cn: " and possibly one other, but until we aquire evidence we will be unable to act in any legal way.'\n\nMost importantly, we have determined that Andromeda Research Corporation is privately owned and controlled by the secretive group 'Andromeda', and that the CEO and the Managing Director of ARC are both core members of this group.  Our profile of Andromeda lists them as well funded Anti-Capitalist Techno-Anarchists, which would seem to fit the charges against them.  So far, we have not had any success in finding this group.'\n\n'Their only real-world presence that we are aware of is their Public Access Terminal, but the registered contact details of that site are all fake.'\n\n'We intend to continue our investigation and appeal for anyone with any information to come forward.'"
+cn: " 的死负有责任。但在取得任何有力证据之前我们无法采取法律行动。”\n\n一个重要的发现是，Andromeda研究公司是私人所有，由一个称为“Andromeda”的神秘组织控制，ARC的CEO和总裁都是这个组织的核心成员。我们对Andromeda的调查显示他们是一伙得到巨额资金支持的反资本主义的无政府主义者，这点符合对他们的指控。到目前为止，我们还无法找到这个组织。”\n\n“唯一能够找出他们现实世界身份的方法是通过他们的个人接入终端，但是与之相关的所有注册资料都是假的。”\n\n“我们的调查还将继续，同时我们希望任何有相关信息的人能够站出来，这将对我们有莫大的帮助。”"
 
 en: "Federal Agents release findings on ARC"
 cn: "Federal Agents release findings on ARC"
 
 en: "ARC Internal Services System attacked"
-cn: "ARC Internal Services System attacked"
+cn: "ARC内部网络遭到攻击"
 
 en: "The Internal Services System run by Andromeda Research Corporation (ARC) has been penetrated by an unknown hacker.  This did not come to light until a few hours ago, when system administrators noticed a discrepancy in the access logs on the system.\n\n'This is the latest example of the kind of abuse our company is having to deal with' said the public relations officer of ARC. 'Ever since these ridiculous allegations about us developing some doomsday weapon, we have had serious problems attracting new business.  Now this.'\n\nIt is not known what the hacker did - he was very careful and covered his tracks. ARC are launching a full investigation into this incident."
-cn: "The Internal Services System run by Andromeda Research Corporation (ARC) has been penetrated by an unknown hacker.  This did not come to light until a few hours ago, when system administrators noticed a discrepancy in the access logs on the system.\n\n'This is the latest example of the kind of abuse our company is having to deal with' said the public relations officer of ARC. 'Ever since these ridiculous allegations about us developing some doomsday weapon, we have had serious problems attracting new business.  Now this.'\n\nIt is not known what the hacker did - he was very careful and covered his tracks. ARC are launching a full investigation into this incident."
+cn: "Andromeda研究公司(ARC)的内部服务系统被一个未知黑客侵入。这次侵入直到数小时前才被发现，系统管理员发现了系统的接入日志有被改动过的痕迹。\n\n“这仅仅是我们公司最近碰到的种种麻烦事情中的最新一件”，ARC的公共联系负责人称。“自从那些对我们公司的荒谬指控 - 诸如什么我们正在研究某种大规模杀伤性武器 － 出现开始，我们在商业运作上就陷入了大麻烦。现在又是这个。”\n\n现在还不清楚这个黑客究竟做了什么 - 他非常小心的掩盖他的踪迹。ARC对这次事件已经展开了全力调查。"
 
 en: "CEO of Andromeda Research Corporation arrested"
 cn: "CEO of Andromeda Research Corporation arrested"
 
 en: "Following an outbreak of the Revelation computer virus on Arunmor Corporations Internal Services System, the CEO of ARC has been arrested by Federal Agents and charged with the crime.  Federal officials say they have been watching his company for some time, and have been waiting for an opportunity to bring him in.\n\nFederal Agents have refused to comment on the results of their questioning at this time."
-cn: "Following an outbreak of the Revelation computer virus on Arunmor Corporations Internal Services System, the CEO of ARC has been arrested by Federal Agents and charged with the crime.  Federal officials say they have been watching his company for some time, and have been waiting for an opportunity to bring him in.\n\nFederal Agents have refused to comment on the results of their questioning at this time."
+cn: "在Arunmor公司的内部服务系统遭受Revelation病毒爆发攻击以后，ARC的CEO被联邦特工逮捕，并以相应罪名起诉。联邦官员称他们已经监视了该公司一段时间，耐心等待抓住他的机会。\n\n现在联邦特工还拒绝公布他们的询问结果。"
 
 en: "ARC Central Mainframe compromised"
 cn: "ARC Central Mainframe compromised"
@@ -4106,22 +4106,22 @@ en: "Arunmor Corporation in Financial Fraud"
 cn: "Arunmor Corporation in Financial Fraud"
 
 en: "The lead Technical director of Arunmor Corporation has been arrested by Federal Agents, following allegations that he has been caught attempting bank fraud.  This latest development in the Arunmor Versus ARC story has called into question the true motives behind Arunmor Corporation.\n\nFederal Agents arrested the technical director in a dawn raid, after an anonymous tip led them to discover evidence which immediately incriminated him.\n\nSo far he has protested his innocence, claiming he has been framed.\n\nThis arrest will come as a severe blow to Arunmor Corporation, who relied on this man for most of their technical leadership.  Their so called 'Faith Project' will have been set back.\n\n"
-cn: "The lead Technical director of Arunmor Corporation has been arrested by Federal Agents, following allegations that he has been caught attempting bank fraud.  This latest development in the Arunmor Versus ARC story has called into question the true motives behind Arunmor Corporation.\n\nFederal Agents arrested the technical director in a dawn raid, after an anonymous tip led them to discover evidence which immediately incriminated him.\n\nSo far he has protested his innocence, claiming he has been framed.\n\nThis arrest will come as a severe blow to Arunmor Corporation, who relied on this man for most of their technical leadership.  Their so called 'Faith Project' will have been set back.\n\n"
+cn: "Arunmor公司的技术部负责人已经被联邦特工逮捕，他被指控试图进行银行诈骗。Arunmor与ARC的故事的最新发展让我们对Arunmor公司的真正动机提出了怀疑。\n\n在一个匿名指控帮助他们找到了定罪的确定证据之后，联邦特工于清晨的一次突击行动中逮捕了技术部负责人。\n\n他极力宣称他的清白，认为他是遭到了陷害。\n\n这次逮捕行动无疑是对Arunmo公司的重大打击，因为他们在技术研发上非常依赖他们的技术部负责人。他们的Faith计划毫无疑问遭到了重大挫折。\n\n"
 
 en: "Revelation Launch due soon?"
 cn: "Revelation Launch due soon?"
 
 en: "Industry experts are predicting that a launch of the destructive Revelation virus may be due soon. If true, this could mean damage to a great deal of computer systems.\n\nFederal agents have been waiting for an opportunity to enter Andromeda Research Corporation but have so far not had enough evidence against the company.\n\nRecent events such as the arrest of a high ranked member of the company and the theft of program code from Darwin Research Associates has led industry experts to speculate that now would be the perfect time for a launch of the virus.\n\nArunmor corporation has been working hard and have a prototype of the counter virus Faith, but it is not clear how effective this would be."
-cn: "Industry experts are predicting that a launch of the destructive Revelation virus may be due soon. If true, this could mean damage to a great deal of computer systems.\n\nFederal agents have been waiting for an opportunity to enter Andromeda Research Corporation but have so far not had enough evidence against the company.\n\nRecent events such as the arrest of a high ranked member of the company and the theft of program code from Darwin Research Associates has led industry experts to speculate that now would be the perfect time for a launch of the virus.\n\nArunmor corporation has been working hard and have a prototype of the counter virus Faith, but it is not clear how effective this would be."
+cn: "行业专家预测毁灭性的Revelation病毒的大规模攻击不久就会开始。如果这是真的，那么相当数量的计算机系统都将被摧毁。\n\n联邦特工等待着进入Andromeda研究公司的机会，但他们还没有掌握任何对该公司不利的证据。\n\n最近该公司一名高层被逮捕，同时程序代码从附属的达尔文研究中心被盗，这些事件的发生都使得行业专家预测现在是发动病毒攻击的最佳时间。\n\nArunmor公司经过努力工作，已经开发出了针对Revelation的Faith病毒原型，但它的有效性还未得到证实。"
 
 en: "Revelation Tracker"
 cn: "Revelation Tracker"
 
 en: "This message includes our Revelation Tracker Software. This will tell you how many systems have been infected with the Virus.\nYou will need this for your next mission."
-cn: "This message includes our Revelation Tracker Software. This will tell you how many systems have been infected with the Virus.\nYou will need this for your next mission."
+cn: "这封邮件包含了我们的Revelation跟踪软件。它会实时报告被病毒感染的系统数目。\n接下来的任务里你会用得到它。"
 
 en: "This message includes a copy of the Revelation virus.\nYou will need this file for your next mission.\n\nDO NOT ATTEMPT TO RUN IT LOCALLY"
-cn: "This message includes a copy of the Revelation virus.\nYou will need this file for your next mission.\n\nDO NOT ATTEMPT TO RUN IT LOCALLY"
+cn: "这封邮件包含了一个Revelation的拷贝.\n接下来的任务里你会用得到它。\n\n决不要在本地机器上运行"
 
 en: "hud_speed 0"
 cn: "hud_speed 0"
