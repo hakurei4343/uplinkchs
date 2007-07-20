@@ -4289,22 +4289,22 @@ en: " credits for completion of this mission.  If you succeed, we believe we wil
 cn: " credits for completion of this mission.  If you succeed, we believe we will be able to take advantage of their momentary confusion and launch Revelation successfully.\n\nBe patient...the time is near."
 
 en: "In your email inbox you will see two emails from us - one containing the final version of the Revelation virus, and the other containing a tracker which will list the systems currently infected.\n\nThis is your green light agent "
-cn: "In your email inbox you will see two emails from us - one containing the final version of the Revelation virus, and the other containing a tracker which will list the systems currently infected.\n\nThis is your green light agent "
+cn: "在你的邮箱里你会找到我们发送的两封邮件 - 一封包含了Revelation的最终版本，另一封包含了一个追踪器，可以实时显示被感染的系统。\n\n对于你来说这是个好消息， "
 
 en: " - we have selected you as our most successful freelance agent to carry out our final mission. Your aim is simple - release Revelation onto as many systems as you possibly can before our entire company is shut down by Federal Agents.\n\nArunmor have Faith ready - they will be right behind you.  If you are quick enough, you will be able to spread the virus faster than they can stop it. Revelation will infect a system, scan for nearby systems on the same subnet, then migrate to the nearest two of those systems. At the same time it will destroy the host it originated from.  Once a certain number of systems have been disabled, the growth of the virus will be unstoppable and the entire Internet will suffer a system-wide cascade failure.\n\nThis is the end - if you are successfull there will be no more Uplink Corporation, no more ARC and no more Arunmor.  The entire Internet will come down with us.  Think about it - we can destroy all records of ownership, reset everyone back to square one, crash the whole damn system.  Think of it!\n\nThis will be our last message to you - if all goes to plan, we will never speak again.\n\nThe codename for this mission is GrandTour.  Best of luck.  ARC out."
-cn: " - we have selected you as our most successful freelance agent to carry out our final mission. Your aim is simple - release Revelation onto as many systems as you possibly can before our entire company is shut down by Federal Agents.\n\nArunmor have Faith ready - they will be right behind you.  If you are quick enough, you will be able to spread the virus faster than they can stop it. Revelation will infect a system, scan for nearby systems on the same subnet, then migrate to the nearest two of those systems. At the same time it will destroy the host it originated from.  Once a certain number of systems have been disabled, the growth of the virus will be unstoppable and the entire Internet will suffer a system-wide cascade failure.\n\nThis is the end - if you are successfull there will be no more Uplink Corporation, no more ARC and no more Arunmor.  The entire Internet will come down with us.  Think about it - we can destroy all records of ownership, reset everyone back to square one, crash the whole damn system.  Think of it!\n\nThis will be our last message to you - if all goes to plan, we will never speak again.\n\nThe codename for this mission is GrandTour.  Best of luck.  ARC out."
+cn: " - 作为最成功的自由黑客，我们已经选中你来执行我们的最终任务。你的目标很简单 - 在我们被联邦特工抓住以前，将Revelation尽可能的传播开去。\n\nArunmor已经有了Faith - 他们会紧追不舍。  如果你动作够快，那么他们阻止病毒的速度就赶不上你扩散病毒的速度。Revelation首先感染一个系统，扫描相同子网中的相邻系统，然后扩散到最近的两个系统，同时它会摧毁当前系统。只要被摧毁的系统数目达到一定数量，病毒的扩散就将不可阻挡，整个互联网都将遭到毁灭性的打击。 \n\n这就是一切的终结 - 如果你能成功，那么什么Uplink 公司，ARC，或者Arunmor都将不复存在。整个互联网将会跪倒在我们脚下。想想看 - 我们将摧毁一切根深蒂固的等级制度，让一切都回到原点，让整个该死的系统崩溃。想想看！那将是多么壮观的景象！整个人类将得到新生。\n\n这将是我们给你的最后一封信 - 如果一切顺利，我们就再也不会联系了。\n\n这个任务的代号是GrandTour。祝好运。 ARC out."
 
 en: "We just started receiving ping signals from our Tracer Software.\nThis means it is set up correctly and working. Time will tell if they managed to spot what you are doing.\n\nWe have made the full mission payment into your account.\n\nWhen the time comes, well send you some Tracer software that you can run on your local system.  This will list all of the computers that have been infected with the Revelation virus."
-cn: "We just started receiving ping signals from our Tracer Software.\nThis means it is set up correctly and working. Time will tell if they managed to spot what you are doing.\n\nWe have made the full mission payment into your account.\n\nWhen the time comes, well send you some Tracer software that you can run on your local system.  This will list all of the computers that have been infected with the Revelation virus."
+cn: "我们已经接收到从我们的追踪软件发来的ping信号。\n这表明它已经被成功安装，运行正常。万事俱备，只欠东风。\n\n我们已经将这次任务的全部酬金打入你的帐户。\n\n等到行动时刻，我们会发送给你一个可以在你的本地机器上运行的追踪软件。它会实时显示所有被Revelation感染的系统。"
 
 en: "Failure"
 cn: "Failure"
 
 en: "We haven't received any ping signals from our Tracer yet.  You can't have installed it right."
-cn: "We haven't received any ping signals from our Tracer yet.  You can't have installed it right."
+cn: "我们没有接收任何到从我们的追踪软件发来的ping信号。你一定没有正确安装它。"
 
 en: "That looks like a total success to us. We'll have to keep quiet for a while, but it looks like the Feds are getting ready to arrest the CEO of Andromeda Research Corporation tommorow.\n\nIt also looks like we are going to be able to question him about Revelation.  This is going to help our cause.\n\nWe believe that the CEO of Andromeda Corporation is not actually the man in charge of the Revelation project - since ARC is actually owned by the Andromeda group, and their leader is currently unknown.  However, he undoubtably has a strong impact on their progress.\n\nIf we are very lucky, this man will help us find the leader of Andromeda.\n\nIt is also likely that our funding will be increased due to this outbreak.  The Government is getting quite desperate at the moment - they think their entire infrastructure may be destroyed, and we are the only people who can offer them a solution."
-cn: "That looks like a total success to us. We'll have to keep quiet for a while, but it looks like the Feds are getting ready to arrest the CEO of Andromeda Research Corporation tommorow.\n\nIt also looks like we are going to be able to question him about Revelation.  This is going to help our cause.\n\nWe believe that the CEO of Andromeda Corporation is not actually the man in charge of the Revelation project - since ARC is actually owned by the Andromeda group, and their leader is currently unknown.  However, he undoubtably has a strong impact on their progress.\n\nIf we are very lucky, this man will help us find the leader of Andromeda.\n\nIt is also likely that our funding will be increased due to this outbreak.  The Government is getting quite desperate at the moment - they think their entire infrastructure may be destroyed, and we are the only people who can offer them a solution."
+cn: "看起来我们取得了完全的成功。我们必须避一段时间的风头，但联邦特工已经准备好逮捕Andromeda 研究公司的CEO了。\n\n这也意味着我们可以从他嘴巴里撬出有关Revelation的一切。这对我们的计划将有极大帮助。\n\n我们认为Andromeda公司的CEO并不是具体负责Revelation计划的人 - 事实上ARC属于Andromeda组织，他们领导者身份未知。然而逮捕他毫无疑问会重挫他们的研究进展。\n\n如果我们足够幸运，这个人会帮助我们找出Andromeda的幕后领导者。\n\n这次事件也将为我们带来滚滚财源。政府这个时候正焦头烂额 - 他们生怕他们赖以生存的一切都将被摧毁，而我们是唯一能够提供解决方案的人。"
 
 en: "REVELATION"
 cn: "REVELATION"
@@ -4313,7 +4313,7 @@ en: "No files found"
 cn: "No files found"
 
 en: "We don't see any useful files on the File Server we specified.\nHave you copied the files onto the file server?  Have you remembered to decrypt the files so we can read them?"
-cn: "We don't see any useful files on the File Server we specified.\nHave you copied the files onto the file server?  Have you remembered to decrypt the files so we can read them?"
+cn: "我们没有在我们指定的文件服务器上找到任何有用的文件。\n你确定已经将文件复制到文件服务器了吗？你是否忘记了将文件解密？不解密的话我们是无法阅读它们的。"
 
 en: "\n\nWe can see "
 cn: "\n\nWe can see "
@@ -4322,28 +4322,28 @@ en: " Gigaquads of useful data which will help us perfect Faith.\n"
 cn: " Gigaquads of useful data which will help us perfect Faith.\n"
 
 en: "Congratulations on your success Agent "
-cn: "Congratulations on your success Agent "
+cn: "祝贺你的成功，"
 
 en: ". We are still not entirely confident that we can stop an outbreak of Revelation, but this data will certainly improve our chances.\n\nWe have managed to determine that the reproductive systems in the Revelation virus are based on data and code stolen from Darwin Research Associates a few weeks ago.  The virus mutates, multiplies and evolves, much like a real life form.  We believe the way to defeat it is to attack it with another virus that it cannot evolve against."
-cn: ". We are still not entirely confident that we can stop an outbreak of Revelation, but this data will certainly improve our chances.\n\nWe have managed to determine that the reproductive systems in the Revelation virus are based on data and code stolen from Darwin Research Associates a few weeks ago.  The virus mutates, multiplies and evolves, much like a real life form.  We believe the way to defeat it is to attack it with another virus that it cannot evolve against."
+cn: "。我们还不能完全确定我们是否能够阻止Revelation的爆发，但有了这些资料我们的机会将大大增加。我们已经发现Revelation病毒的繁殖系统来自于数周之前他们从达尔文研究中心偷来的资料和源代码。这种病毒变异、繁殖、进化，就像一种真正的生命。我们相信唯一能够击败它的方法就是研制一种能够破坏它的繁殖进化系统的病毒。"
 
 en: "Congratulations on your recent success agent - we are very pleased with the way things turned out.  We have made the appropriate payment into your account.\n\nNo doubt this event will manage a lot of media coverage so it is probably best if you keep a low profile for a short while.  We will contact you again soon with some more work."
-cn: "Congratulations on your recent success agent - we are very pleased with the way things turned out.  We have made the appropriate payment into your account.\n\nNo doubt this event will manage a lot of media coverage so it is probably best if you keep a low profile for a short while.  We will contact you again soon with some more work."
+cn: "祝贺你近来的成功 - 我们对事情的进展很满意。我们已经将酬金打入你的帐户。\n\n毫无疑问这次事件会招来大批媒体关注，所以近段时间你最好保持低调。我们不久就会联系你。"
 
 en: "DARWIN"
 cn: "DARWIN"
 
 en: " Gigaquads of useful data which will help us perfect Revelation.  At the moment the virus does not spread particularly well - if the security systems of the local machine are still running, the virus has trouble getting out of the system at all.  We are planning on using the research that Darwin has conducted to make the virus mutate and evolve, in order to combat any defense systems it comes up against."
-cn: " Gigaquads of useful data which will help us perfect Revelation.  At the moment the virus does not spread particularly well - if the security systems of the local machine are still running, the virus has trouble getting out of the system at all.  We are planning on using the research that Darwin has conducted to make the virus mutate and evolve, in order to combat any defense systems it comes up against."
+cn: " 数以G计的有用资料可以帮助我们完善Revelation。现在病毒的传播系统做的还不很完美 - 如果被感染系统上的安全系统仍然在运行，那么病毒就无法扩散。我们计划借助达尔文研究中心的研究成果来编写病毒的变异和进化系统，让它能够摧毁一切挡在它路上的防御系统。"
 
 en: "Well done Agent - we have checked the systems ourselves and have determined that enough evidence has been planted to convict the man.  Police will soon be receiving an anonymous tip, which should end his work at Arunmor.\n\nWe are planning on using this instance to cast doubt over the actions of Arunmor Corporation. Currently they are receiving a great deal of funding from the Government and are making very fast progress on their Faith countervirus.  This has become something of an arms race. Hopefully the Government will be less willing to fund such an operation when they hear about this financial scandal."
-cn: "Well done Agent - we have checked the systems ourselves and have determined that enough evidence has been planted to convict the man.  Police will soon be receiving an anonymous tip, which should end his work at Arunmor.\n\nWe are planning on using this instance to cast doubt over the actions of Arunmor Corporation. Currently they are receiving a great deal of funding from the Government and are making very fast progress on their Faith countervirus.  This has become something of an arms race. Hopefully the Government will be less willing to fund such an operation when they hear about this financial scandal."
+cn: "干得好，黑客 - 我们已经检查了系统，现在已经有足够的证据，足以让那家伙万劫不复了。警察很快就会接到一封匿名信，然后他在Arunmor的职业生涯就到此为止。\n\n这也是一个打击Arunmor公司的好机会。现在他们得到政府的大量资金支持，他们的反制病毒Faith的研究进展很快。这将是一次军备竞赛。当政府得知这桩银行诈骗丑闻时，他们就会考虑对Arunmor的支持是否正确。"
 
 en: "The wrong person has been framed"
 cn: "The wrong person has been framed"
 
 en: "We've looked at the systems involved, and we can see that you have performed the hack.\nHowever, it doesn't appear that the logs lead back to his home computer.  You must fix this \nbefore somebody traces the wrong person."
-cn: "We've looked at the systems involved, and we can see that you have performed the hack.\nHowever, it doesn't appear that the logs lead back to his home computer.  You must fix this \nbefore somebody traces the wrong person."
+cn: "我们已经查看了系统，看起来你已经成功的完成了侵入。\n然而日志文件并没有指向他的家用电脑。你必须修正这个错误，\n在他们错误的抓到某个人之前。"
 
 en: "Failure to complete mission"
 cn: "Failure to complete mission"
@@ -4355,13 +4355,13 @@ en: "CONGRATULATIONS"
 cn: "CONGRATULATIONS"
 
 en: "We've just heard the news about Arunmor's research - congratulations!\n\nIt looks like you performed the job with your usual style and skill.  Well done.\n\nFaith is certain to take a major blow from this.  We are planning on releasing Revelation very shortly...there are just a few more things to take care of first.\n\nIt is likely that Arunmor had some backups of the countervirus somewhere, so we will have to move quickly to take advantage of their loss.\nWe will contact you soon."
-cn: "We've just heard the news about Arunmor's research - congratulations!\n\nIt looks like you performed the job with your usual style and skill.  Well done.\n\nFaith is certain to take a major blow from this.  We are planning on releasing Revelation very shortly...there are just a few more things to take care of first.\n\nIt is likely that Arunmor had some backups of the countervirus somewhere, so we will have to move quickly to take advantage of their loss.\nWe will contact you soon."
+cn: "我们已经听到了有关Arunmor研究的新闻 - 干得好！\n\n看起来你用你一贯的风格和技巧完成了任务。漂亮。\n\nFaith的研制无疑受到了重大打击。我们很快就会释放Revelation...只剩下一些小事需要预先完成。\n\nArunmor很可能在某处保存了反制病毒的备份，我们必须抓紧时间利用他们的失败。\n我们很快会再联系你。"
 
 en: "Well done for attempting the Arunmor crash mission.  It appears you shut down the system, which will cause them problems.  But it appears they have recovered the data from back-ups.\n\nYou should have deleted all the files before you shut the system down.\n\nStill, this will hurt Arunmor.  We are planning on releasing Revelation very shortly...there are just a few more things to take care of first.\n\nWe will contact you soon."
-cn: "Well done for attempting the Arunmor crash mission.  It appears you shut down the system, which will cause them problems.  But it appears they have recovered the data from back-ups.\n\nYou should have deleted all the files before you shut the system down.\n\nStill, this will hurt Arunmor.  We are planning on releasing Revelation very shortly...there are just a few more things to take care of first.\n\nWe will contact you soon."
+cn: "攻击Arunmor的任务做的不错。看起来你关闭了系统，这会给他们造成麻烦。但他们已经从备份中恢复了资料。\n\n你本该在关闭系统之前删除所有文件的。\n\n不过现在Arunmor已经受到了打击。我们很快就会释放Revelation...只剩下一些小事需要预先完成。\n\n我们很快会再联系你。"
 
 en: "Congratulations on deleting the data on Arunmor's central mainframe.  It appears you didn't quite manage to shut down the system, but that's ok.  We've dealt them a nasty blow.  We are planning on releasing Revelation very shortly...there are just a few more things to take care of first.\n\nWe will contact you soon."
-cn: "Congratulations on deleting the data on Arunmor's central mainframe.  It appears you didn't quite manage to shut down the system, but that's ok.  We've dealt them a nasty blow.  We are planning on releasing Revelation very shortly...there are just a few more things to take care of first.\n\nWe will contact you soon."
+cn: "看起来你已经删除了Arunmor中心服务器上的所有资料，做的好。但你并没有关闭系统，不过算了。我们现在已经给了他们重重一击。我们很快就会释放Revelation...只剩下一些小事需要预先完成。\n\n我们很快会再联系你。"
 
 en: "You don't appear to have damaged the Arunmor Central Mainframe very much.  Try again."
 cn: "You don't appear to have damaged the Arunmor Central Mainframe very much.  Try again."
@@ -4409,7 +4409,7 @@ en: "Revelation has been destroyed"
 cn: "Revelation has been destroyed"
 
 en: "Congratulations would seem to be in order - not only have you stopped Revelation in its tracks, you've also wiped out any trace of the virus on the Internet.\n\nAs you are probably aware, Andromeda Research Corporation has been raided and won't be doing any more damage at any point in the future. The key members of the company are facing some serious charges.\n\nOnce again, a sincere thank you from Arunmor Corporation."
-cn: "Congratulations would seem to be in order - not only have you stopped Revelation in its tracks, you've also wiped out any trace of the virus on the Internet.\n\nAs you are probably aware, Andromeda Research Corporation has been raided and won't be doing any more damage at any point in the future. The key members of the company are facing some serious charges.\n\nOnce again, a sincere thank you from Arunmor Corporation."
+cn: "我们无法表达对你的谢意 - 你不仅阻止了Revelation的传播，还从互联网上抹消了一切它留下的痕迹。\n\n你可能已经听说，Andromeda研究公司已被警方控制，他们再也没法造成什么麻烦了。他们公司的主要成员将会面临严重的指控。\n\nArunmor公司再次向你表示崇高的敬意。"
 
 en: "Plot Generator\n"
 cn: "Plot Generator\n"
