@@ -4487,46 +4487,46 @@ en: "Thank you for replying Agent.\n"
 cn: "Thank you for replying Agent.\n"
 
 en: "We have some work for you which you can get started on immediately.\n"
-cn: "We have some work for you which you can get started on immediately.\n"
+cn: "我们有一些工作需要你尽快完成。\n"
 
 en: "Your skills with the Academic Database will come in useful here.\n\n"
 cn: "Your skills with the Academic Database will come in useful here.\n\n"
 
 en: "Below you will find the personal details of our target. We have selected this man from a large candidate list due to his suitability to our aims. We wish to make use of his identity for one of our own undercover agents, and in order for this to go ahead we first need to make some changes to his Social Security Record.\n\nYou can help us by making the necessary changes.  All we need you to do is to change his Social Security Number to "
-cn: "Below you will find the personal details of our target. We have selected this man from a large candidate list due to his suitability to our aims. We wish to make use of his identity for one of our own undercover agents, and in order for this to go ahead we first need to make some changes to his Social Security Record.\n\nYou can help us by making the necessary changes.  All we need you to do is to change his Social Security Number to "
+cn: "信末附有目标的详细资料。我们从一大堆候选者当中选中了他，因为他最符合我们的需要。我们希望利用他的身份来为我们的一个黑客提供掩护，为此我们需要给他的社会安全纪录动点手脚。\n\n你可以帮助我们做到这点。你只需要把他的社会安全号码改成 "
 
 en: ".  We will take care of the rest.\n"
-cn: ".  We will take care of the rest.\n"
+cn: "即可。剩下的事情我们会处理。\n"
 
 en: "Once you have finished, be sure to let us know as soon as possible.\n"
-cn: "Once you have finished, be sure to let us know as soon as possible.\n"
+cn: "任务完成以后，尽快通知我们。\n"
 
 en: "Maximum uplink rating reached"
 cn: "Maximum uplink rating reached"
 
 en: "Congratulations agent - you have reached the maximum possible Uplink Rating in the demo version of Uplink.  In order to achieve higher ratings and participate in later missions, you'll need to register your copy of Uplink.\n\nGo to www.introversion.co.uk for details on how to do this.\n\nRegards\nThe Uplink Team"
-cn: "Congratulations agent - you have reached the maximum possible Uplink Rating in the demo version of Uplink.  In order to achieve higher ratings and participate in later missions, you'll need to register your copy of Uplink.\n\nGo to www.introversion.co.uk for details on how to do this.\n\nRegards\nThe Uplink Team"
+cn: "祝贺你，黑客 - 你已经达到了在Uplink试玩版当中所能达到的最高等级。为了达到更高的级别，接到更多的任务，你必须注册你的Uplink。\n\n访问www.introversion.co.uk以获取详细资料。\n\nRegards\nThe Uplink Team"
 
 en: "Offer from Andromeda Research Corporation"
 cn: "Offer from Andromeda Research Corporation"
 
 en: "We have been monitoring your progress as a new Uplink Agent, and we've been extremely impressed with the rate at which you are advancing through the ranks.\n\nWe have some work which needs completing, and your recent experience with the International Academic Database makes you particularly suited to the job.\nThe work that we are doing is of a similar nature.\n\nYou will find working for Andromeda Research Corporation is much more profitable than working for Uplink Corporation. In any case, we need an answer soon.\nIf you are interested, simply reply to this email within the next 24 hours.\n\n[END]"
-cn: "We have been monitoring your progress as a new Uplink Agent, and we've been extremely impressed with the rate at which you are advancing through the ranks.\n\nWe have some work which needs completing, and your recent experience with the International Academic Database makes you particularly suited to the job.\nThe work that we are doing is of a similar nature.\n\nYou will find working for Andromeda Research Corporation is much more profitable than working for Uplink Corporation. In any case, we need an answer soon.\nIf you are interested, simply reply to this email within the next 24 hours.\n\n[END]"
+cn: "我们一直在关注你的Uplink黑客生涯，你火箭般的进步速度给我们留下了深刻印象。\n\n我们有些工作需要完成，你很熟悉国际学院数据库，这使你成为执行这个任务的最佳人选。\n这个任务和你以前干过的差不多。\n\n你会发现为Andromeda研究公司工作将会比为Uplink公司工作有利可图得多。不管怎样，我们需要尽快答复。\n如果你感兴趣，在24小时之内回复这封电子邮件即可。\n\n[END]"
 
 en: "Message from ARC"
 cn: "Message from ARC"
 
 en: "Congratulations on your recent success with the Social Security Database. We knew you would be successfull - we would not have selected you otherwise.\n\nIf you check your bank accounts, you will see we have deposited the amount promised.\n\nWe hope you will be willing to work for us in the future. We will contact you soon with more work, as it becomes available.\n\nAndromeda Research Corporation"
-cn: "Congratulations on your recent success with the Social Security Database. We knew you would be successfull - we would not have selected you otherwise.\n\nIf you check your bank accounts, you will see we have deposited the amount promised.\n\nWe hope you will be willing to work for us in the future. We will contact you soon with more work, as it becomes available.\n\nAndromeda Research Corporation"
+cn: "祝贺你对社会安全数据库的成功侵入。我们知道你会成功的 - 不然我们不会选择你。\n\n如果你现在查看一下你的银行帐户，你会发现我们已经支付了全部酬金。\n\n希望我们以后还有机会合作。只要有新的工作，我们就会联系你。\n\nAndromeda Research Corporation"
 
 en: "An Uplink Agent going by the handle of "
-cn: "An Uplink Agent going by the handle of "
+cn: "今天，Uplink黑客 "
 
 en: " has been found dead in his house after an apparent suicide.\nPreliminary forensic analysis suggests he overdosed on sleeping pills.\n\nThe agent's real name is "
-cn: " has been found dead in his house after an apparent suicide.\nPreliminary forensic analysis suggests he overdosed on sleeping pills.\n\nThe agent's real name is "
+cn: " 被发现在他的住所中自杀。\n验尸报告显示他服用了大量安眠药\n\n这位黑客的真实姓名是"
 
 en: " and he had been working for the controversial Andromeda Research Corporation, otherwise known as ARC.  ARC have been in the news in previous months, responding to allegations that they have been developing some kind of weapon using the expertise of new and naive Uplink Agents.\nIn particular, they have been accused of targeting users of the Demo Uplink Client, who often have little understanding or knowledge of the companies involved.\n\nARC released a statement earlier today, stating 'He was the best programmer we had ever seen and was a lead player in the project.  For something like this happen is a tradgedy of the greatest order.  Our thoughts go out to this mans family and friends.'\n\nDue to the seriousness of these claims, Uplink Corporation has asked all agents not to accept work from ARC while this issue is resolved."
-cn: " and he had been working for the controversial Andromeda Research Corporation, otherwise known as ARC.  ARC have been in the news in previous months, responding to allegations that they have been developing some kind of weapon using the expertise of new and naive Uplink Agents.\nIn particular, they have been accused of targeting users of the Demo Uplink Client, who often have little understanding or knowledge of the companies involved.\n\nARC released a statement earlier today, stating 'He was the best programmer we had ever seen and was a lead player in the project.  For something like this happen is a tradgedy of the greatest order.  Our thoughts go out to this mans family and friends.'\n\nDue to the seriousness of these claims, Uplink Corporation has asked all agents not to accept work from ARC while this issue is resolved."
+cn: "，他一直在为饱受争议的Andromeda研究公司工作，简称ARC。ARC最近几个月中经常出现在新闻中，回应关于他们使用Uplink新手黑客来开发某种武器的指控。\n一项特别的指控是他们故意利用那些Uplink试用版客户，他们对这家公司的了解不多。\n\nARC今天早些时候发表了一则声明，宣称“（自杀的黑客）是我们见过最好的程序员，他也是我们的项目经理。他的自杀是一件极大的悲剧，我们极其悲痛于他的逝去，希望他的家人和朋友能度过这一艰难时刻。”\n\n由于针对ARC的指控的严重性，Uplink公司已经要求它旗下的所有黑客在这起事件水落石出之前，不接受来自ARC的任何工作。"
 
 en: "Uplink agent dies in mysterious circumstances"
 cn: "Uplink agent dies in mysterious circumstances"
@@ -4535,7 +4535,7 @@ en: "Warning to all Agents"
 cn: "Warning to all Agents"
 
 en: "[Sent to ALL-AGENTS]\n\nWe have recently uncovered some alarming evidence regarding the Andromeda Research Corporation, otherwise known as ARC.  Several of our agents have made accusations and we are currently investigating.\n\nIn the mean time, we wish to request that Uplink Agents refuse any work offered to them by ARC until this matter is resolved.\n\nMore details can be found on our News Server, on the Uplink Internal Services System.\n\nEND"
-cn: "[Sent to ALL-AGENTS]\n\nWe have recently uncovered some alarming evidence regarding the Andromeda Research Corporation, otherwise known as ARC.  Several of our agents have made accusations and we are currently investigating.\n\nIn the mean time, we wish to request that Uplink Agents refuse any work offered to them by ARC until this matter is resolved.\n\nMore details can be found on our News Server, on the Uplink Internal Services System.\n\nEND"
+cn: "[发送给所有黑客]\n\n我们最近获取了一些有关Andromeda研究公司，简称ARC的不利证据。我们的几个黑客提出了指控，我们现在正在调查。\n\n同时，我们希望所有Uplink黑客拒绝任何来自于ARC的工作，直到这件事情调查清楚为止。\n\n详情请见我们的新闻服务器，它架设在Uplink服务中心系统中。\n\nEND"
 
 en: "Demo Plot Generator\n"
 cn: "Demo Plot Generator\n"
@@ -4547,178 +4547,178 @@ en: "DEMOPGEN"
 cn: "DEMOPGEN"
 
 en: "Government social security records compromised"
-cn: "Government social security records compromised"
+cn: "政府社会安全数据库遭篡改"
 
 en: "The Government run social security database has been hacked by an unknown cyber criminal."
-cn: "The Government run social security database has been hacked by an unknown cyber criminal."
+cn: "政府社会安全数据库遭到不明黑客攻击。"
 
 en: "Government officials insist this is the first and only incident of its kind."
-cn: "Government officials insist this is the first and only incident of its kind."
+cn: "政府官员声称以前从未发生过此类事件。"
 
 en: "In theory, unlawful changes to this database could result in dead people being reported as alive, or alive people being reported as dead.  Other personal information could be stolen."
-cn: "In theory, unlawful changes to this database could result in dead people being reported as alive, or alive people being reported as dead.  Other personal information could be stolen."
+cn: "理论上，修改这个数据库的数据会导致诸如死人被宣布为存活，而活人却被宣称已死亡等后果。个人信息也会被偷窃。"
 
 en: "A government federal agent today stated that this would not be allowed to happen again."
-cn: "A government federal agent today stated that this would not be allowed to happen again."
+cn: "一位政府联邦特工表示他们决不会让这种事情再度发生。"
 
 en: "Social security hacked twice in less than a month"
-cn: "Social security hacked twice in less than a month"
+cn: "一个月内社会安全数据库两次遭攻击"
 
 en: "The Government run social security database has once again been hacked by an unknown cyber criminal.  "
-cn: "The Government run social security database has once again been hacked by an unknown cyber criminal.  "
+cn: "政府社会安全数据库再度遭到不明黑客攻击。"
 
 en: "This is the second time in less than a month that this system has been attacked.  It is not known if these two incidents are connected."
-cn: "This is the second time in less than a month that this system has been attacked.  It is not known if these two incidents are connected."
+cn: "这已经是一个月之内这个系统第二次遭到攻击。现在还不知道这两次攻击之间是否有关联。"
 
 en: "A hacker gaining access to this system could do untold damage by modifying crucial personal data."
-cn: "A hacker gaining access to this system could do untold damage by modifying crucial personal data."
+cn: "侵入该系统的黑客可以随意修改重要的个人资料，这将造成难以估量的破坏。"
 
 en: "The government today launched an investigation into these recent security problems."
-cn: "The government today launched an investigation into these recent security problems."
+cn: "政府今天开始对近来的安全事件展开调查。"
 
 en: "Government held Files compromised for the third time"
-cn: "Government held Files compromised for the third time"
+cn: "政府文件第三次遭篡改"
 
 en: "For the third time in less than a month, the government owned Social Security Database has been hacked."
-cn: "For the third time in less than a month, the government owned Social Security Database has been hacked."
+cn: "政府社会安全数据库一个月内第三次遭不明黑客攻击。"
 
 en: "The system holds key personal data on millions of people and has been the cause of some embarrasment recently for the government."
-cn: "The system holds key personal data on millions of people and has been the cause of some embarrasment recently for the government."
+cn: "这个系统存贮着数以百万计的重要个人信息，最近它的屡遭攻击成为政府的一个梦魇。"
 
 en: "The potential for damage on this system is huge, prompting calls by opposition parties for a full review of all security protocols."
-cn: "The potential for damage on this system is huge, prompting calls by opposition parties for a full review of all security protocols."
+cn: "这个系统受攻击带来的损失可能相当巨大，反对党已经提出要求对所有的网络安全协议进行详细评估。"
 
 en: "Government Social Security files accessed again"
-cn: "Government Social Security files accessed again"
+cn: "政府社会安全数据库再度遭侵入"
 
 en: "The system holds personal data on the general population, but could be maliciously used to create new identities or tamper with existing ones."
-cn: "The system holds personal data on the general population, but could be maliciously used to create new identities or tamper with existing ones."
+cn: "该系统保存着大量人口的个人资料，侵入它的黑客可以创造新身份，或者修改已存在的个人信息。"
 
 en: "Social Security computer once again hacked"
-cn: "Social Security computer once again hacked"
+cn: "社会安全数据库又遭攻击"
 
 en: "It is feared that the many recent hacks of this system may lead to a lack of trust in its data, which is used all over industry for many purposes."
-cn: "It is feared that the many recent hacks of this system may lead to a lack of trust in its data, which is used all over industry for many purposes."
+cn: "近来这个系统多次遭遇入侵，这可能导致人们对它所存储的数据产生不信任感。现在它的信息在全社会都被广泛使用。"
 
 en: "Government maintained Social Security documents come under attack again"
-cn: "Government maintained Social Security documents come under attack again"
+cn: "政府社会安全文件又被攻击"
 
 en: "In theory, a skilled hacker could manufacture a new identity, or tamper with an existing record to cause damage to a person's records.  "
-cn: "In theory, a skilled hacker could manufacture a new identity, or tamper with an existing record to cause damage to a person's records.  "
+cn: "理论上，一个熟练的黑客可以轻松的创造新的身份，或者随意的修改已有记录。"
 
 en: "This system has been hacked multiple times in the last month, prompting heavy critisism from some opposition parties."
-cn: "This system has been hacked multiple times in the last month, prompting heavy critisism from some opposition parties."
+cn: "过去一个月内该系统多次遭侵入，引起了反对党势如潮水的激烈批评。"
 
 en: "This is not the first time this has happened; this system has been tampered with more than once recently."
-cn: "This is not the first time this has happened; this system has been tampered with more than once recently."
+cn: "此类事件已经不是第一次发生；该系统近来不止一次遭到侵入。"
 
 en: "The Government is once again on the defensive as this system seems to be almost wide open to abuse."
-cn: "The Government is once again on the defensive as this system seems to be almost wide open to abuse."
+cn: "政府下定决心要加强防御系统，以改变该系统目前这种几乎不设防的状态。"
 
 en: "Government social security documents have been accessed once again."
-cn: "Government social security documents have been accessed once again."
+cn: "社会安全数据库又一次被攻击"
 
 en: "Government spokesmen today insisted they had the situation under control, despite recent history."
-cn: "Government spokesmen today insisted they had the situation under control, despite recent history."
+cn: "政府发言人坚称事态仍在控制之中，尽管近来发生了多次侵入事件。"
 
 en: "Government maintained Social Security documents have come under attack yet again."
-cn: "Government maintained Social Security documents have come under attack yet again."
+cn: "政府社会安全文件又被攻击"
 
 en: "The government is said to be considering many options on how to stop these attacks."
-cn: "The government is said to be considering many options on how to stop these attacks."
+cn: "政府宣称将采取多种手段来遏制这些攻击。"
 
 en: "The Goverment owned Social Security computer has once again been hacked by an unknown Cyber criminal."
-cn: "The Goverment owned Social Security computer has once again been hacked by an unknown Cyber criminal."
+cn: "政府社会安全数据库再度遭不明黑客侵入"
 
 en: "Federal agents have been called in to help catch the criminals responsible for this action."
-cn: "Federal agents have been called in to help catch the criminals responsible for this action."
+cn: "联邦特工已经展开调查，誓要抓住幕后黑手。"
 
 en: "Government run academic database hacked"
-cn: "Government run academic database hacked"
+cn: "政府教育数据库被攻击"
 
 en: "The International Academic Database has been compromised by  malicious hacker."
-cn: "The International Academic Database has been compromised by  malicious hacker."
+cn: "国际教育数据库被恶意黑客攻击"
 
 en: "Until today this system was thought to be secure against this type of attack."
-cn: "Until today this system was thought to be secure against this type of attack."
+cn: "直到今天，这个系统一直被认为是对该类攻击免疫的。"
 
 en: "The motives of the hacker are not clear but it is thought he was attempting to forge qualifications for an unknown recipient."
-cn: "The motives of the hacker are not clear but it is thought he was attempting to forge qualifications for an unknown recipient."
+cn: "黑客的动机不明，但据推测他可能是为了某个客户假造资格证明。"
 
 en: "Government agents made it clear they would not tolerate this action and have already taken steps to secure the database against future action."
-cn: "Government agents made it clear they would not tolerate this action and have already taken steps to secure the database against future action."
+cn: "政府特工明确表示他们不会容忍此类事件，并且已经采取措施来保卫数据库不再受到类似攻击。"
 
 en: "Academic records hacked again"
-cn: "Academic records hacked again"
+cn: "教育记录又遭攻击"
 
 en: "The International Academic Database has been hacked for the second time in less than a month."
-cn: "The International Academic Database has been hacked for the second time in less than a month."
+cn: "国际教育数据库一月内两次被攻击"
 
 en: "It is not known if the two attacks are connected."
-cn: "It is not known if the two attacks are connected."
+cn: "现在尚不明确这两次攻击之间是否有关联。"
 
 en: "The government today began an investigation into these attacks."
-cn: "The government today began an investigation into these attacks."
+cn: "政府今天已对这些攻击展开调查。"
 
 en: "Government academic database hacked again"
-cn: "Government academic database hacked again"
+cn: "政府教育数据库再度被侵入"
 
 en: "The Government is on the defensive again today as its International Academic Database is hacked again."
-cn: "The Government is on the defensive again today as its International Academic Database is hacked again."
+cn: "政府遭到尖锐批评，它的国际教育数据库又被攻击了。"
 
 en: "This attack comes less than a week after a recent hack and is the third this month."
-cn: "This attack comes less than a week after a recent hack and is the third this month."
+cn: "这次攻击距离上次攻击还不到一周时间，已经是本月以来的第三次。"
 
 en: "It is believed that an individual or small group is attempting to create new academic details and qualifications, perhaps offering this as a service."
-cn: "It is believed that an individual or small group is attempting to create new academic details and qualifications, perhaps offering this as a service."
+cn: "据信黑客可能是一个人也可能是一个组织，其意图是创建新的教育记录以及学历资格证明，将此作为一项服务。"
 
 en: "Federal agents have been brought in to investigate."
-cn: "Federal agents have been brought in to investigate."
+cn: "联邦特工已经介入调查。"
 
 en: "Government embarresed over repeated security failures"
-cn: "Government embarresed over repeated security failures"
+cn: "政府陷入网络安全漩涡之中"
 
 en: "The Government has again promised to put a stop to these hacks quickly."
-cn: "The Government has again promised to put a stop to these hacks quickly."
+cn: "政府再度承诺将尽快阻止此类黑客攻击事件。"
 
 en: "International Academic Database hacked again"
-cn: "International Academic Database hacked again"
+cn: "国际教育数据库再度遭攻击"
 
 en: "The Government seems to be at a loss as to what to do about these recent attacks."
-cn: "The Government seems to be at a loss as to what to do about these recent attacks."
+cn: "政府似乎对近来发生的攻击束手无策。"
 
 en: "Federal Agents investigate Academic Database hacks"
-cn: "Federal Agents investigate Academic Database hacks"
+cn: "联邦特工调查教育数据库黑客事件"
 
 en: "Federal Agents from the computer crimes division where today tasked with catching the criminals involved and determining what damage has been done."
-cn: "Federal Agents from the computer crimes division where today tasked with catching the criminals involved and determining what damage has been done."
+cn: "电脑犯罪调查部的联邦特工今天已经介入调查，试图抓住幕后黑客，并评估已造成的损失。"
 
 en: "Security on this computer has been bypassed repeadly in the last month."
-cn: "Security on this computer has been bypassed repeadly in the last month."
+cn: "过去的一个月内该系统的安全系统屡屡被绕过，几乎处于不设防状态。"
 
 en: "This attack is the latest in a string of hacks performed in the last month."
-cn: "This attack is the latest in a string of hacks performed in the last month."
+cn: "这次攻击不过是上月以来一系列攻击当中的最新一次。"
 
 en: "Federal agents seem unable to stop a torrent of recent hacks on this system."
-cn: "Federal agents seem unable to stop a torrent of recent hacks on this system."
+cn: "联邦特工看来无力阻止对该系统的一连串攻击。"
 
 en: "The Government Academic Database has been hacked again by an unknown intruder."
-cn: "The Government Academic Database has been hacked again by an unknown intruder."
+cn: "政府教育数据库又遭不明身份者侵入"
 
 en: "The system is used to store the Academic history of millions of people."
-cn: "The system is used to store the Academic history of millions of people."
+cn: "该系统存贮了数以百万计的人的教育记录。"
 
 en: "Hackers have again penetrated the International Acadmic Database."
-cn: "Hackers have again penetrated the International Acadmic Database."
+cn: "黑客又一次侵入国际教育数据库。"
 
 en: "In theory a skilled hacker could create new qualifications for any person he wished."
-cn: "In theory a skilled hacker could create new qualifications for any person he wished."
+cn: "理论上一个熟练的黑客可以随意为任何人创建学历资格证明。"
 
 en: "The International Academic Database has been attacked by hackers again."
-cn: "The International Academic Database has been attacked by hackers again."
+cn: "国际教育数据库又遭恶意黑客攻击。"
 
 en: "The exact motives of the hackers are not clear, but it is believed they may be running some kind of buisiness offering new qualifications for people for a price."
-cn: "The exact motives of the hackers are not clear, but it is believed they may be running some kind of buisiness offering new qualifications for people for a price."
+cn: "黑客的动机未知，但据推测他们将此作为一项业务来运行，为那些想要假造资格证明的人提供有偿服务。"
 
 en: "Global Criminal Records attacked by hackers"
 cn: "Global Criminal Records attacked by hackers"
