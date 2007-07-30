@@ -4721,220 +4721,220 @@ en: "The exact motives of the hackers are not clear, but it is believed they may
 cn: "黑客的动机未知，但据推测他们将此作为一项业务来运行，为那些想要假造资格证明的人提供有偿服务。"
 
 en: "Global Criminal Records attacked by hackers"
-cn: "Global Criminal Records attacked by hackers"
+cn: "全球犯罪数据库被黑客攻击"
 
 en: "The Government managed Global Criminal Database has been penetrated by an unknown computer hacker."
-cn: "The Government managed Global Criminal Database has been penetrated by an unknown computer hacker."
+cn: "政府管理的全球犯罪数据库被不明黑客侵入。"
 
 en: "Security on the system is so tight that hacks of this kind were thought to be impossible."
-cn: "Security on the system is so tight that hacks of this kind were thought to be impossible."
+cn: "这个系统由极其严密的安全措施保护，一度被认为是不可能被侵入的。"
 
 en: "It appears from a preliminary investigation that an unknown criminal record was modified, prompting calls from human rights groups for higher security on personal records of this kind."
-cn: "It appears from a preliminary investigation that an unknown criminal record was modified, prompting calls from human rights groups for higher security on personal records of this kind."
+cn: "初步调查显示可能有未知身份的犯罪记录被更改，这引起了人权组织的呼吁，要求对此类敏感个人信息提供更为严密的安全保护。"
 
 en: "The Government has said they have begun an investigation and have taken steps to stop this from happening again."
-cn: "The Government has said they have begun an investigation and have taken steps to stop this from happening again."
+cn: "政府宣称已经展开调查，并将采取措施杜绝此类事件再度发生。"
 
 en: "Criminal Records opened to the public domain"
-cn: "Criminal Records opened to the public domain"
+cn: "犯罪记录不设防"
 
 en: "Despite the installation of a brand new high security system, the Global Criminal Database has again been attacked and penetrated by a hacker or group of hackers."
-cn: "Despite the installation of a brand new high security system, the Global Criminal Database has again been attacked and penetrated by a hacker or group of hackers."
+cn: "尽管已经安装了最新的安全系统。全球犯罪数据库还是被黑客侵入。"
 
 en: "Government agents are said to be amazed that their new system has failed so soon."
-cn: "Government agents are said to be amazed that their new system has failed so soon."
+cn: "政府特工对于他们的新系统这么快就被攻破表示吃惊。"
 
 en: "This is the second time criminal records have been modified by hackers masquerading as officers."
-cn: "This is the second time criminal records have been modified by hackers masquerading as officers."
+cn: "这已经是黑客第二次修改犯罪记录了。"
 
 en: "The newly installed system will no doubt be tested in light of this new breach."
-cn: "The newly installed system will no doubt be tested in light of this new breach."
+cn: "新安装的系统经受严峻考验"
 
 en: "Hackers take advantage of Global Criminal Database"
-cn: "Hackers take advantage of Global Criminal Database"
+cn: "黑客随心所欲的利用全球犯罪数据库"
 
 en: "The Government owned Global Criminal Database system has recently suffered a couple of high security hacks, and it would seem more and more hackers are taking advantage of the system."
-cn: "The Government owned Global Criminal Database system has recently suffered a couple of high security hacks, and it would seem more and more hackers are taking advantage of the system."
+cn: "政府所有的全球犯罪数据库系统近来接二连三的遭到攻击，看起来越来越多的黑客都想从这个系统中得益。"
 
 en: "For the third time in less than a month a hacker gained adminstrative access to the system and modified criminal records within the system."
-cn: "For the third time in less than a month a hacker gained adminstrative access to the system and modified criminal records within the system."
+cn: "黑客获取了这个系统的管理员权限，更改了其中的犯罪记录。这已是近一月来的第三次。"
 
 en: "The Government now believes a group of individuals are offering modifications to personal records such as criminal records for a price, perhaps advertising through the underground anarchist group Uplink Corporation."
-cn: "The Government now believes a group of individuals are offering modifications to personal records such as criminal records for a price, perhaps advertising through the underground anarchist group Uplink Corporation."
+cn: "政府相信有一个组织专门提供这种修改个人犯罪记录的有偿服务，可能是通过地下无政府组织Uplink公司进行宣传。"
 
 en: "The Government has now clamped down on accesses to the system, claiming it is safer than ever."
-cn: "The Government has now clamped down on accesses to the system, claiming it is safer than ever."
+cn: "政府现在对这个系统的权限管制更加严格，宣称它比以前任何时候都安全。"
 
 en: "Global Criminal Database smashed open again"
-cn: "Global Criminal Database smashed open again"
+cn: "全球犯罪数据库又一次崩溃"
 
 en: "The Government appears to be unable to put a stop to these attacks."
-cn: "The Government appears to be unable to put a stop to these attacks."
+cn: "政府看起来对这些攻击根本无能为力。"
 
 en: "Government criminal records system hacked yet again"
-cn: "Government criminal records system hacked yet again"
+cn: "政府犯罪记录系统又被攻击"
 
 en: "The Government appear to be at a loss as to what to do."
-cn: "The Government appear to be at a loss as to what to do."
+cn: "政府看起来茫然无措，根本不知道该做些什么。"
 
 en: "Criminal Records modified by hackers again"
-cn: "Criminal Records modified by hackers again"
+cn: "犯罪记录又被黑客修改"
 
 en: "The Government is now considering shutting down the Global Criminal Database until this can be resolved."
-cn: "The Government is now considering shutting down the Global Criminal Database until this can be resolved."
+cn: "政府考虑在问题得到解决之前，关闭全球犯罪数据库系统。"
 
 en: "Security at this server system has been compromised numerous times in the past month."
-cn: "Security at this server system has been compromised numerous times in the past month."
+cn: "过去一个月内该系统屡遭攻击，几乎处于不设防状态。"
 
 en: "This news service has unfortunately lost count of the number of hacks at this site in recent times."
-cn: "This news service has unfortunately lost count of the number of hacks at this site in recent times."
+cn: "近来这个站点被黑的次数简直无法统计。"
 
 en: "The system appears to have more security holes than popular 'Micro software' written in the late 20th century."
-cn: "The system appears to have more security holes than popular 'Micro software' written in the late 20th century."
+cn: "这个系统的安全漏洞看起来比20世纪末流行的微软公司的系统还要多。"
 
 en: "The Government run Global Criminal Database has again been hacked wide open."
-cn: "The Government run Global Criminal Database has again been hacked wide open."
+cn: "政府运行的全球犯罪数据库又被黑客攻击。"
 
 en: "It is believed an underground organisation is selling the service of modifying records."
-cn: "It is believed an underground organisation is selling the service of modifying records."
+cn: "据信有一个地下组织专门出售这种修改犯罪记录的服务。"
 
 en: "The Global Criminal Database has been successfully attacked once again."
-cn: "The Global Criminal Database has been successfully attacked once again."
+cn: "全球犯罪数据库又一次被攻击。"
 
 en: "Hackers could clear existing records or could have innocent people thrown in jail."
-cn: "Hackers could clear existing records or could have innocent people thrown in jail."
+cn: "黑客可以轻松的洗清一个罪犯身上所有的案底，也能把无辜的人扔进监狱。"
 
 en: "Once again the Global Criminal Database has been hacked."
-cn: "Once again the Global Criminal Database has been hacked."
+cn: "全球犯罪数据库又被黑了"
 
 en: "A number of cases have now arisen of people in prison who claim they were framed in this way."
-cn: "A number of cases have now arisen of people in prison who claim they were framed in this way."
+cn: "已经有一批关在监狱里的人宣称他们是被这种方式陷害的。"
 
 en: " hacked"
-cn: " hacked"
+cn: " 被黑"
 
 en: "The financial computer system "
-cn: "The financial computer system "
+cn: "金融电脑系统"
 
 en: " has been penetrated from an unknown source."
-cn: " has been penetrated from an unknown source."
+cn: "被未知黑客侵入。"
 
 en: "This is the first incident of its kind for the owner, "
-cn: "This is the first incident of its kind for the owner, "
+cn: "这类事情还是第一次发生，"
 
 en: "Hackers gaining access to this system could perform any number of fund transfers."
-cn: "Hackers gaining access to this system could perform any number of fund transfers."
+cn: "获取该系统权限的黑客可以随意的进行资金转帐。"
 
 en: " are investigating the incident."
-cn: " are investigating the incident."
+cn: " 正在调查这起事件。"
 
 en: " comes under attack again"
-cn: " comes under attack again"
+cn: " 又被攻击"
 
 en: " computer system has been hacked for the second time."
-cn: " computer system has been hacked for the second time."
+cn: " 电脑系统第二次遭遇攻击。"
 
 en: "It is believed that some unauthorised money transfers were performed by the hackers."
-cn: "It is believed that some unauthorised money transfers were performed by the hackers."
+cn: "据信黑客进行了一些未授权的资金转帐操作。"
 
 en: "This incident has lead to a fall in investor trust, and  the Bank is currently searching for clues as to the identity of the hackers responsible."
-cn: "This incident has lead to a fall in investor trust, and  the Bank is currently searching for clues as to the identity of the hackers responsible."
+cn: "这起事件严重打击了投资者信心，银行已经开始寻找线索，以确定黑客的身份。"
 
 en: " hacked for the third time"
-cn: " hacked for the third time"
+cn: " 第三次被黑"
 
 en: " are at a loss today as their online trading system, "
-cn: " are at a loss today as their online trading system, "
+cn: "显得茫然无措，因为他们的在线交易系统，"
 
 en: " was hacked for the third time in less than a month."
-cn: " was hacked for the third time in less than a month."
+cn: " 一个月内第三次被攻击。"
 
 en: "Funds are being illegally transfered but "
-cn: "Funds are being illegally transfered but "
+cn: "资金被非法转移，但是 "
 
 en: " are unable to provide any further details at this time."
-cn: " are unable to provide any further details at this time."
+cn: " 现在无法提供任何事件细节。"
 
 en: "Earlier today they issued a statement, saying that Federal Agents had been brought in to try to catch these hackers before they cause serious damage."
-cn: "Earlier today they issued a statement, saying that Federal Agents had been brought in to try to catch these hackers before they cause serious damage."
+cn: "今天早些时候他们发布了一则声明，宣称联邦特工已经介入调查，试图在黑客们造成更大破坏之前抓住他们。"
 
 en: " is hacked again"
-cn: " is hacked again"
+cn: " 又被攻击"
 
 en: "This system has been hacked at least 4 times in the last month."
-cn: "This system has been hacked at least 4 times in the last month."
+cn: "过去的一个月内该系统至少四次被黑。"
 
 en: " security fails once again"
-cn: " security fails once again"
+cn: " 安全系统又挂了"
 
 en: "This is the latest in a long list of security failures for "
-cn: "This is the latest in a long list of security failures for "
+cn: "这是一系列黑客事件中的最新一起 "
 
 en: " is penetrated by hackers again"
-cn: " is penetrated by hackers again"
+cn: " 又被黑客侵入"
 
 en: "Investor confidence is low as this system has been hacked many times recently."
-cn: "Investor confidence is low as this system has been hacked many times recently."
+cn: "随着这个系统一次又一次的被攻破，投资者信心已经降到冰点。"
 
 en: " has been attacked and penetrated again by unknown cyber-criminals."
-cn: " has been attacked and penetrated again by unknown cyber-criminals."
+cn: " 被未知的黑客攻击并侵入。"
 
 en: "Earlier today the "
-cn: "Earlier today the "
+cn: "今天早些时候 "
 
 en: " system was attacked again by Computer hackers."
-cn: " system was attacked again by Computer hackers."
+cn: " 系统又被电脑黑客攻击。"
 
 en: " suffered another embarrasing security problem today as their "
-cn: " suffered another embarrasing security problem today as their "
+cn: " 今天遭遇到另一起令他们颜面扫地的安全问题，他们的 "
 
 en: " system was hacked from an unknown source."
-cn: " system was hacked from an unknown source."
+cn: " 系统被未知黑客攻破。"
 
 en: "It is believed the hackers were attempting to transfer funds without authorisation."
-cn: "It is believed the hackers were attempting to transfer funds without authorisation."
+cn: "据信黑客的目的是进行未经授权的资金转帐。"
 
 en: " have hired freelance computer specialists in an attempt to catch the guilty parties."
-cn: " have hired freelance computer specialists in an attempt to catch the guilty parties."
+cn: " 雇佣了电脑专家，试图抓住犯罪团伙。"
 
 en: "Records indicate the hackers performed some kind of financial transfer, then attempted to remove any traces of their actions."
-cn: "Records indicate the hackers performed some kind of financial transfer, then attempted to remove any traces of their actions."
+cn: "记录表明黑客进行了一系列金融转帐操作，然后抹去了他们留下的一切痕迹。"
 
 en: " say they are are confident they will catch the hacker."
-cn: " say they are are confident they will catch the hacker."
+cn: "宣称他们有信心抓到黑客。"
 
 en: "Hackers gaining access to this system could perform any number of fund transfers between accounts."
-cn: "Hackers gaining access to this system could perform any number of fund transfers between accounts."
+cn: "获得该系统权限的黑客可以进行任意两个帐户之间的转帐操作。"
 
 en: " are said to be considering further action in light of the number of recent hacks."
-cn: " are said to be considering further action in light of the number of recent hacks."
+cn: " 已经考虑针对近来的黑客攻击事件采取进一步行动。"
 
 en: "This occured on "
 cn: "This occured on "
 
 en: "Hackers take down major computer system"
-cn: "Hackers take down major computer system"
+cn: "黑客攻击大型电脑系统"
 
 en: "Large corporation stung by malicious hacker attack"
-cn: "Large corporation stung by malicious hacker attack"
+cn: "大公司被恶意黑客攻击"
 
 en: "Agressive computer attacker leaves system crippled"
-cn: "Agressive computer attacker leaves system crippled"
+cn: "恶意黑客留下了崩溃的系统"
 
 en: " have taken a major blow to their operations today as a malicious computer hacker penetrated one of their key computer systems and caused terminal damage."
-cn: " have taken a major blow to their operations today as a malicious computer hacker penetrated one of their key computer systems and caused terminal damage."
+cn: " 的运营今天遭遇到了重大打击，恶意黑客侵入了他们的一个关键电脑系统，造成了重大损失。"
 
 en: "A lone hacker has penetrated one of the primary computer systems of "
-cn: "A lone hacker has penetrated one of the primary computer systems of "
+cn: "一个黑客侵入了"
 
 en: " and deliberately shut down the system."
-cn: " and deliberately shut down the system."
+cn: "的一个主要电脑系统，并故意关闭了它。"
 
 en: "Federal agents are now searching for the identity of a computer criminal who broke into the "
-cn: "Federal agents are now searching for the identity of a computer criminal who broke into the "
+cn: "联邦特工已经展开调查，试图找出侵入 "
 
 en: " and deliberately destroyed the machine."
-cn: " and deliberately destroyed the machine."
+cn: "并故意摧毁它的黑客身份。"
 
 en: "It has been difficult to piece together exactly what happened, but it appears that a system wide failure of the computer system was caused by the hackers actions.  Experts say the entire operating system will have to be replaced."
 cn: "It has been difficult to piece together exactly what happened, but it appears that a system wide failure of the computer system was caused by the hackers actions.  Experts say the entire operating system will have to be replaced."
