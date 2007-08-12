@@ -4937,148 +4937,148 @@ en: " and deliberately destroyed the machine."
 cn: "并故意摧毁它的黑客身份。"
 
 en: "It has been difficult to piece together exactly what happened, but it appears that a system wide failure of the computer system was caused by the hackers actions.  Experts say the entire operating system will have to be replaced."
-cn: "It has been difficult to piece together exactly what happened, but it appears that a system wide failure of the computer system was caused by the hackers actions.  Experts say the entire operating system will have to be replaced."
+cn: "现在还不清楚具体情况，但是黑客的入侵显然造成了相当大的破坏。专家说整个操作系统都必须更换。"
 
 en: "Industry experts have re-created the final moments of the system crash from access logs on another machine.  A few moments before the computer shut down, a lone hacker forced his way into the system after bypassing the security, entered into administrative mode and deleted several key system files, causing the machine to malfunction."
-cn: "Industry experts have re-created the final moments of the system crash from access logs on another machine.  A few moments before the computer shut down, a lone hacker forced his way into the system after bypassing the security, entered into administrative mode and deleted several key system files, causing the machine to malfunction."
+cn: "行业专家根据日志文件，在另一台机器上成功重现了系统崩溃前的最后状况。在电脑被关闭之前, 一个黑客绕开安全系统侵入了系统内部，进入管理模式，然后删除了几个系统运行必需的核心文件，使整个系统崩溃。"
 
 en: "A single hacker is responsible for this high-tech crime.  Moments before the failure he hacked into the system and deliberatly brought about its destruction.  The exact method has not yet been determined."
-cn: "A single hacker is responsible for this high-tech crime.  Moments before the failure he hacked into the system and deliberatly brought about its destruction.  The exact method has not yet been determined."
+cn: "这起高科技犯罪是一名单独黑客所为。他侵入系统，然后故意使之崩溃。他所使用的具体手段还未能判明。"
 
 en: "\nThe company stated in their press release that all files had been totally destroyed."
-cn: "\nThe company stated in their press release that all files had been totally destroyed."
+cn: "\n公司在他们的新闻发布会上宣布所有的文件都被黑客摧毁了。"
 
 en: "\nExtensive damage was done but the company has been able to salvage most of the data."
-cn: "\nExtensive damage was done but the company has been able to salvage most of the data."
+cn: "\n损失相当惨重，但是公司宣布他们可以还原大部分数据。"
 
 en: "The city witnessed a sharp drop in the share price today as news of this disaster reached investors.  It seems that nobody is safe after such a high profile system is destroyed.  "
-cn: "The city witnessed a sharp drop in the share price today as news of this disaster reached investors.  It seems that nobody is safe after such a high profile system is destroyed.  "
+cn: "今天投资者们得知了这起灾难性的新闻，股票市场全面暴跌。看起来在这个安全措施如此严密的系统被摧毁后，已经没人感到安全。"
 
 en: " said that millions of credits of damage had been done already."
-cn: " said that millions of credits of damage had been done already."
+cn: " 宣布损失程度已经数以百万计。"
 
 en: "This system failure will cost the company dearly.  It seems the data on the system is lost for good, and the costs of repairing this damage could spiral into millions of dollars.  Industry analysts say the company is looking at some rough times ahead."
-cn: "This system failure will cost the company dearly.  It seems the data on the system is lost for good, and the costs of repairing this damage could spiral into millions of dollars.  Industry analysts say the company is looking at some rough times ahead."
+cn: "这起事件对该公司的打击可谓巨大。系统存储的资料完全被摧毁了，而想要修复损失，所需花费至少需要数百万美元。行业分析专家认为该公司接下来将有一段相当艰难的日子。"
 
 en: "Today the company chairman tried to play down the significance of this event, no doubt trying to avoid a public relations disaster as well as a system failure.  There can be little doubt that this set back will cost the company dearly."
-cn: "Today the company chairman tried to play down the significance of this event, no doubt trying to avoid a public relations disaster as well as a system failure.  There can be little doubt that this set back will cost the company dearly."
+cn: "今天公司主席出面，试图降低事态的严重性，无疑他是想在一起技术灾难发生后，避免一起公共关系灾难。看起来这次事件使该公司损失惨重。"
 
 en: "Company executives today released a press statement, indicating they were investigating the incident and would be seeking outside assistance from industry professionals."
-cn: "Company executives today released a press statement, indicating they were investigating the incident and would be seeking outside assistance from industry professionals."
+cn: "公司执行官今天发布了一则公开声明，宣布他们已经开始对事件展开调查，并且寻求一切来自业内专家的帮助。"
 
 en: "Federal agents have been brought in on the case and will no doubt be searching for the identity of this dangerous computer hacker."
-cn: "Federal agents have been brought in on the case and will no doubt be searching for the identity of this dangerous computer hacker."
+cn: "联邦特工已经介入调查，试图找出这个危险的电脑黑客的真实身份。"
 
 en: " have tightened security on their remaining computer systems, and federal agents from the government cyber-crimes division were seen entering the corporate headquarters today."
-cn: " have tightened security on their remaining computer systems, and federal agents from the government cyber-crimes division were seen entering the corporate headquarters today."
+cn: " 在他们余下的电脑系统上特别加强了安全保护措施，而来自政府电脑犯罪部的联邦特工今天也进驻公司总部展开调查。"
 
 en: " discovered this morning that a massive quantity of computer data had been stolen from one of their Central Mainframes."
-cn: " discovered this morning that a massive quantity of computer data had been stolen from one of their Central Mainframes."
+cn: " 今天早上发现有大量的电脑资料从他们的中心服务器上被盗走了。"
 
 en: "A computer hacker entered the Central File Server of "
-cn: "A computer hacker entered the Central File Server of "
+cn: "今天黑客侵入了 "
 
 en: " today and copied a huge portion of computer data to an unknown location.  This incident comes less than a month after a similar incident where their central mainframe was compromised."
-cn: " today and copied a huge portion of computer data to an unknown location.  This incident comes less than a month after a similar incident where their central mainframe was compromised."
+cn: " 的中心文件服务器，复制了大量的资料数据并发送到某个未知地点。这起事件距离上次他们的中心系统被攻击还不到一个月的时间。"
 
 en: " are once again reviewing their security procedures after revealing that their central mainframe has been compromised for the third time in a month, with massive amounts of confidential data being transfered away."
-cn: " are once again reviewing their security procedures after revealing that their central mainframe has been compromised for the third time in a month, with massive amounts of confidential data being transfered away."
+cn: " 在他们的中心系统一个月内被入侵三次以后，应该好好检查一下他们的安全保护措施了。这次又有大量的机密资料被盗。"
 
 en: " have suffered yet another embarrassing security breach, today revealing that a massive quantity of private data was stolen from their central mainframe.  This system has been targetted repeatedly in recent times."
-cn: " have suffered yet another embarrassing security breach, today revealing that a massive quantity of private data was stolen from their central mainframe.  This system has been targetted repeatedly in recent times."
+cn: " 又经历了另一次令他们感到羞辱的攻击事件，今天他们披露他们的中心系统被侵入，大量私有数据被盗。这个系统近来一而再再而三的成为黑客的攻击目标。"
 
 en: "Gigaquads of scientific data copied by hacker"
-cn: "Gigaquads of scientific data copied by hacker"
+cn: "成G的科学数据被黑客复制"
 
 en: "The stolen files contained data from a massive scientific research program, which "
-cn: "The stolen files contained data from a massive scientific research program, which "
+cn: "被偷走的文件包含了一个庞大的科学研究计划的数据，这个计划 "
 
 en: " had been working on for the past 3 years.\n"
-cn: " had been working on for the past 3 years.\n"
+cn: "已经进行了三年。\n"
 
 en: "Around "
-cn: "Around "
+cn: "大约 "
 
 en: " Gigaquads of data was copied before the intruder disconnected."
-cn: " Gigaquads of data was copied before the intruder disconnected."
+cn: " G的数据被入侵者在断开连接前复制。"
 
 en: " will undoubtedly try to discover the corporation behind this theft."
-cn: " will undoubtedly try to discover the corporation behind this theft."
+cn: " 无疑会试图找出这起盗窃事件的幕后黑手。"
 
 en: "No data is secure - GigaQuads stolen in 'impossible' hack"
-cn: "No data is secure - GigaQuads stolen in 'impossible' hack"
+cn: "没有数据是安全的 - '不可能'的黑客事件，数G资料被窃"
 
 en: "It is believed around "
-cn: "It is believed around "
+cn: "据信大约"
 
 en: " Gigaquads of confidential corporate data was stolen by this hacker, and it was probably copied to a temporary fileserver somewhere on the web."
-cn: " Gigaquads of confidential corporate data was stolen by this hacker, and it was probably copied to a temporary fileserver somewhere on the web."
+cn: " G的公司机密资料被该黑客偷走，可能被复制到网上某个临时的文件服务器中。"
 
 en: " have said that they are considering all options to catch this hacker, and the corporation that paid him."
-cn: " have said that they are considering all options to catch this hacker, and the corporation that paid him."
+cn: " 宣称他们会不惜一切代价抓住黑客，以及雇佣该黑客的公司。"
 
 en: "Personal customer data copied by hacker"
-cn: "Personal customer data copied by hacker"
+cn: "客户资料数据被黑客偷走"
 
 en: "The computer system stored hundreds of GigaQuads of personal data on all of the corporation's customers.  This data is now in the public domain.  Over "
-cn: "The computer system stored hundreds of GigaQuads of personal data on all of the corporation's customers.  This data is now in the public domain.  Over "
+cn: "这个电脑系统存贮着该公司所有的客户的个人资料，多达数百G。现在这些资料全被放到了公众网上。超过 "
 
 en: " Gigaquads of data was stolen."
-cn: " Gigaquads of data was stolen."
+cn: " G的数据被窃。"
 
 en: " tried to reassure the public today, and issued a statement saying they had brought in Federal Agents to try and find the corporation responsible."
-cn: " tried to reassure the public today, and issued a statement saying they had brought in Federal Agents to try and find the corporation responsible."
+cn: " 今天试图安抚公众，并且发布了一则声明，宣布他们已经请联邦特工介入案件，试图找到幕后黑手。"
 
 en: "Two years of software development - stolen"
-cn: "Two years of software development - stolen"
+cn: "两年的软件开发成果 - 被偷"
 
 en: " had been working on several advanced software products and this computer system was their primary file server.  Most of their proprietary source code has been copied - over "
-cn: " had been working on several advanced software products and this computer system was their primary file server.  Most of their proprietary source code has been copied - over "
+cn: "已经在几个软件产品上工作了很长时间，这次被攻击的电脑系统就是他们的主要文件服务器。他们的成果的源代码 - 超过"
 
 en: " Gigaquads of data, immediately compromising several of their planned security systems."
-cn: " Gigaquads of data, immediately compromising several of their planned security systems."
+cn: " G的资料被复制, 他们的几个安全系统几乎是瞬间就崩溃了。"
 
 en: "Federal Agents have been called in to help track down the Corporation and the hacker responsible."
-cn: "Federal Agents have been called in to help track down the Corporation and the hacker responsible."
+cn: "联邦特工已经介入调查，试图追踪到该黑客以及幕后的公司。"
 
 en: " found themselves in the public eye today as one of their primary computer systems suffered a complete failure, resulting in a large amount of lost data."
-cn: " found themselves in the public eye today as one of their primary computer systems suffered a complete failure, resulting in a large amount of lost data."
+cn: " 今天发现他们突然名声大噪，因为他们的中心电脑系统被黑客几乎完全破坏，大量数据损失。"
 
 en: " again found themselves in trouble as gigaquds of data where wiped from their system.  In a statement today the company claimed it had evidence that the files where deliberately deleted by a malicious hacker."
-cn: " again found themselves in trouble as gigaquds of data where wiped from their system.  In a statement today the company claimed it had evidence that the files where deliberately deleted by a malicious hacker."
+cn: " 发现他们再次陷入了大麻烦，数以G计的数据被从系统中抹去。公司今天发布声明称，有证据表明此事为一恶意黑客所为。"
 
 en: " are today boosting their security systems as their file servers suffered yet another complete failure.  The company has come under attack on several occasions in the last month by hackers who have yet to be identified."
-cn: " are today boosting their security systems as their file servers suffered yet another complete failure.  The company has come under attack on several occasions in the last month by hackers who have yet to be identified."
+cn: " 今天对他们的安全系统进行了大幅加强，因为他们的文件服务器不久前遭到了另一次攻击。过去的一个月中这家公司已经遭到了多次黑客攻击，而现在黑客的身份都无法查明。"
 
 en: "Computer failure blaimed for research loss"
-cn: "Computer failure blaimed for research loss"
+cn: "电脑被攻击导致研究损失"
 
 en: "The data deleted was the combined results of a large scale scientific test, being conducted by "
-cn: "The data deleted was the combined results of a large scale scientific test, being conducted by "
+cn: "被删除的数据是一项大规模科学研究计划的综合成果，"
 
 en: " in order to develop new technology."
-cn: " in order to develop new technology."
+cn: "主导了这项科学研究，以期在科技上取得新突破。如今一切都化为泡影。"
 
 en: "In a statement today the company said that serious damage had been done and that it could cost the company millions of dollars to perform the research again."
-cn: "In a statement today the company said that serious damage had been done and that it could cost the company millions of dollars to perform the research again."
+cn: "公司今天发布的声明称损失极为惨重，如果要从头进行研究的话又要耗费数百万美元。"
 
 en: "Major corporation suffers complete data loss"
-cn: "Major corporation suffers complete data loss"
+cn: "大公司遭遇数据损失"
 
 en: "The company found that masses of corporate data has been destroyed."
-cn: "The company found that masses of corporate data has been destroyed."
+cn: "公司发现大量数据被摧毁。"
 
 en: "It is not known how much this will cost the company but there is little doubt that serious damage has been done.  This level of data loss could not occur without serious repurcusions."
-cn: "It is not known how much this will cost the company but there is little doubt that serious damage has been done.  This level of data loss could not occur without serious repurcusions."
+cn: "现在还不清楚这将给公司造成多大损失，但是毫无疑问造成的破坏相当严重。这种程度的资料损失无疑是有人故意所为。"
 
 en: " loses gigaquads of customer data due to 'malicious hackers'"
-cn: " loses gigaquads of customer data due to 'malicious hackers'"
+cn: " 遭遇恶意黑客攻击，数以G计的客户资料被毁"
 
 en: "The computer system that was damaged was used to hold customer records and sales data.  It is believed that all backups of the data were also destroyed, leading the company to believe that this was a deliberate act."
-cn: "The computer system that was damaged was used to hold customer records and sales data.  It is believed that all backups of the data were also destroyed, leading the company to believe that this was a deliberate act."
+cn: "存储客户资料和销售数据的电脑系统被摧毁。据信所有的数据备份也同时被删除了，公司确信这只能是有人故意所为。"
 
 en: " today issued a statement saying that they were investigating the incident."
-cn: " today issued a statement saying that they were investigating the incident."
+cn: " 今天发表声明称他们正在调查该事件。"
 
 en: "Proprietary software source code deleted by hacker"
 cn: "Proprietary software source code deleted by hacker"
