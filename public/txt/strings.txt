@@ -5081,97 +5081,97 @@ en: " today issued a statement saying that they were investigating the incident.
 cn: " 今天发表声明称他们正在调查该事件。"
 
 en: "Proprietary software source code deleted by hacker"
-cn: "Proprietary software source code deleted by hacker"
+cn: "Proprietary软件源代码被黑客删除"
 
 en: "Upon investigating the damaged computer, the company found that much of their software that was still in development had been deleted, along with all source code and back ups.  It was claimed that the revolutionary software would dominate the market once released."
-cn: "Upon investigating the damaged computer, the company found that much of their software that was still in development had been deleted, along with all source code and back ups.  It was claimed that the revolutionary software would dominate the market once released."
+cn: "在调查电脑被破坏情况时，公司发现他们还在开发中的一款软件被删除，包括所有的源代码和备份。这款革命性的软件曾被认为一旦发布就可以垄断市场。"
 
 en: " have undoubtably suffered a large loss here, which could cost the company millions."
-cn: " have undoubtably suffered a large loss here, which could cost the company millions."
+cn: " 无疑遭受了重大损失，可能耗费公司数百万美元。"
 
 en: "Earlier today a man was arrested by Federal Agents for "
-cn: "Earlier today a man was arrested by Federal Agents for "
+cn: "今天早些时候联邦特工逮捕了某人 "
 
 en: "Man arrested for Computer Crime"
-cn: "Man arrested for Computer Crime"
+cn: "某人因电脑犯罪被逮捕"
 
 en: "Police arrest suspect in Computer fraud crime"
-cn: "Police arrest suspect in Computer fraud crime"
+cn: "警察以电脑诈骗罪名义逮捕嫌疑犯"
 
 en: "Federal agents arrest suspect in dawn raid"
-cn: "Federal agents arrest suspect in dawn raid"
+cn: "联邦特工在一次清晨突袭中逮捕了嫌疑犯"
 
 en: "The man arrested, who has been named as "
-cn: "The man arrested, who has been named as "
+cn: "被逮捕的人名为 "
 
 en: ", has protested his innocence from the start, claiming he has no knowledge of Computers at all and could not have committed this crime."
-cn: ", has protested his innocence from the start, claiming he has no knowledge of Computers at all and could not have committed this crime."
+cn: "，极力宣称他是完全无辜的，表示他对电脑根本一窍不通，也不可能犯下任何电脑罪行。"
 
 en: "The man will face court in a few months time for these crimes and could serve  several years in jail for this crime."
-cn: "The man will face court in a few months time for these crimes and could serve  several years in jail for this crime."
+cn: "此人在接下来的几个月里将为这些罪行频繁出入法庭。一旦定罪，还有好多年的牢狱生活等着他。"
 
 en: "This case will go to court and he may face some time in jail.  Friends and family today began a campaign to prove his innocence, claiming that he does not have the knowledge or equipment necessary to complete the crimes he is accused of."
-cn: "This case will go to court and he may face some time in jail.  Friends and family today began a campaign to prove his innocence, claiming that he does not have the knowledge or equipment necessary to complete the crimes he is accused of."
+cn: "这起案件将交由法庭审理，在此期间他得蹲在监狱里。他的家人与朋友今天已经提出抗议，宣称他是无辜的，因为他根本没有犯下这桩罪行所必须的知识技能和设备。"
 
 en: "Amateur hacker caught and arrested"
-cn: "Amateur hacker caught and arrested"
+cn: "业余黑客被逮捕"
 
 en: "Federal Agents catch hacker red handed"
-cn: "Federal Agents catch hacker red handed"
+cn: "联邦特工逮捕黑客"
 
 en: "Part-time hacker brought to justice"
-cn: "Part-time hacker brought to justice"
+cn: "兼职黑客遭遇正义审判"
 
 en: "The man has been named by Federal Agents as "
-cn: "The man has been named by Federal Agents as "
+cn: "此人被联邦特工称为 "
 
 en: ", and is on record with a history of small time computer crime.  Police who arrested him found Computer equipment and hardware for hacking in his house.  It is believed this man was a part-time employee of the underground hacker group Uplink-Corporation, where he went by the hacker alias of "
-cn: ", and is on record with a history of small time computer crime.  Police who arrested him found Computer equipment and hardware for hacking in his house.  It is believed this man was a part-time employee of the underground hacker group Uplink-Corporation, where he went by the hacker alias of "
+cn: "，他的档案上有一系列小型电脑犯罪的记录。逮捕他的警察在其家中找到了用来进行黑客工作的电脑设备和硬件。据信此人是地下黑客组织Uplink-Corporation的一名兼职黑客，他的黑客假名是 "
 
 en: "He may not get a chance to hack again however, as he could face up to ten years in prison."
-cn: "He may not get a chance to hack again however, as he could face up to ten years in prison."
+cn: "他以后再也不能干这行了，他有可能面对多达十年的牢狱之灾。"
 
 en: "Experienced computer hacker finally caught"
-cn: "Experienced computer hacker finally caught"
+cn: "老练的电脑黑客终于落网"
 
 en: "Federal Agents catch up with underground Hacker"
-cn: "Federal Agents catch up with underground Hacker"
+cn: "联邦特工抓住一名地下黑客"
 
 en: "High-ranked Uplink Agent arrested"
-cn: "High-ranked Uplink Agent arrested"
+cn: "Uplink高级黑客被逮捕"
 
 en: "The man's real name is "
-cn: "The man's real name is "
+cn: "此人的真名是 "
 
 en: " and he is a well known player in the underground hacker scene.  It is believed he is a full-time freelance hacker, working for several organised groups including the well known Uplink-Corporation, where he went by the hacker alias of "
-cn: " and he is a well known player in the underground hacker scene.  It is believed he is a full-time freelance hacker, working for several organised groups including the well known Uplink-Corporation, where he went by the hacker alias of "
+cn: " 他在地下黑客界里颇有名气。据信他是一名全职自由黑客，为数个组织工作，包括有名的Uplink公司，他的Uplink假名是"
 
 en: "Police suspect this man of multiple computer crimes and as such it is believed he will serve between ten and fifteen years inprisonment, and most likely a life ban on the use of computers."
-cn: "Police suspect this man of multiple computer crimes and as such it is believed he will serve between ten and fifteen years inprisonment, and most likely a life ban on the use of computers."
+cn: "警察指控他与多起电脑犯罪有关。相信他将在监狱里蹲上十年到十五年，同时很可能一辈子再也不许碰电脑。"
 
 en: "Hacker ring-leader arrested in dawn raid"
-cn: "Hacker ring-leader arrested in dawn raid"
+cn: "黑客圈的领导者在一次黎明突袭中落网"
 
 en: "Police arrest hacker 'Demi-God'"
-cn: "Police arrest hacker 'Demi-God'"
+cn: "警察逮捕黑客'Demi-God'"
 
 en: "Federal Agents pleased with arrest of hacker leader"
-cn: "Federal Agents pleased with arrest of hacker leader"
+cn: "联邦特工对于抓到这个黑客头目感到非常高兴"
 
 en: "The man in question is "
-cn: "The man in question is "
+cn: "被调查的人是 "
 
 en: " and he is a well established member of the secretive underground hacker movement Uplink-Corporation, where he worked behind the hacker alias of "
-cn: " and he is a well established member of the secretive underground hacker movement Uplink-Corporation, where he worked behind the hacker alias of "
+cn: " 他是秘密地下黑客运动组织Uplink公司的重要成员之一，在其中他以 "
 
 en: ".  His rating is incredibly high, suggesting a long history of computer crime.  Police have had a file on this many for several years but have finally caught him red handed."
-cn: ".  His rating is incredibly high, suggesting a long history of computer crime.  Police have had a file on this many for several years but have finally caught him red handed."
+cn: "的假名出现。他的黑客等级异乎寻常的高，这暗示了他的黑客犯罪经历相当惊人。警察盯住他已经有好几年，这一次终于在他犯案时将其抓获。"
 
 en: "Due to the nature of his history, it is believed the prosecution may push for a life sentence for this man.  The courts are becoming increasingly hostile to hackers and they may decide to deal a heavy punishment to this hacker as a warning to others."
-cn: "Due to the nature of his history, it is believed the prosecution may push for a life sentence for this man.  The courts are becoming increasingly hostile to hackers and they may decide to deal a heavy punishment to this hacker as a warning to others."
+cn: "鉴于他的犯罪记录，相信他很可能面对无期徒刑。法官们对黑客的敌意也相当浓重，他们可能决定从重判处，这是针对其他的黑客的一个清楚的警告。"
 
 en: "It has come to our attention that your bank account below has gone overdrawn, without authorisation.\n\n"
-cn: "It has come to our attention that your bank account below has gone overdrawn, without authorisation.\n\n"
+cn: "我们注意到您以下的银行帐户在未经授权的情况下透支了。\n\n"
 
 en: "AccNo: "
 cn: "AccNo: "
@@ -5234,7 +5234,7 @@ en: "warezgameover_mainmenu"
 cn: "warezgameover_mainmenu"
 
 en: "Uplink Corporation has detected that you are using\nan illegal copy of this product.\n\nFor security reasons, Uplink Corporation cannot allow you to continue\nworking for our company.\nAs such, we have terminated your Agent status\nand closed down your accounts.\n\nIf you are interested in becoming an authorised Uplink Agent,\nyou will need to purchase the full Uplink CD.\nDetails can be found on our web site.\n\nwww.introversion.co.uk\n\n"
-cn: "Uplink Corporation has detected that you are using\nan illegal copy of this product.\n\nFor security reasons, Uplink Corporation cannot allow you to continue\nworking for our company.\nAs such, we have terminated your Agent status\nand closed down your accounts.\n\nIf you are interested in becoming an authorised Uplink Agent,\nyou will need to purchase the full Uplink CD.\nDetails can be found on our web site.\n\nwww.introversion.co.uk\n\n"
+cn: "Uplink公司检测到你在使用\n本产品的一个非法拷贝。\n\n鉴于安全原因，Uplink公司不再允许你继续为\n我们公司工作。\n我们已经终止了你的黑客档案\n并关闭了你的帐户。\n\n如果你有兴趣成为一个授权的Uplink黑客，\n你需要购买完整的Uplink CD.\n更多细节请访问我们的网站。\n\nwww.introversion.co.uk\n\n"
 
 en: "Return to Main Menu"
 cn: "回到主菜单"
