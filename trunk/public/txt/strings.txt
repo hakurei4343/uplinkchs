@@ -5300,7 +5300,7 @@ en: "demogameover"
 cn: "demogameover"
 
 en: "Uplink Corporation has detected that you are still using\nthe Demo Uplink Client, and that you have reached the highest\nattainable Uplink rating for a Demo user.\n\nFor security reasons, Uplink Corporation cannot allow you to continue\nworking for our company as a freelance Agent.\nAs such, we have terminated your Agent status\nand closed down your accounts.\n\nIf you are interested in becoming a full-time Uplink Agent,\nyou will need to purchase the full Uplink CD.\nDetails can be found on our web site.\n\nwww.introversion.co.uk\n\n"
-cn: "Uplink Corporation has detected that you are still using\nthe Demo Uplink Client, and that you have reached the highest\nattainable Uplink rating for a Demo user.\n\nFor security reasons, Uplink Corporation cannot allow you to continue\nworking for our company as a freelance Agent.\nAs such, we have terminated your Agent status\nand closed down your accounts.\n\nIf you are interested in becoming a full-time Uplink Agent,\nyou will need to purchase the full Uplink CD.\nDetails can be found on our web site.\n\nwww.introversion.co.uk\n\n"
+cn: "Uplink公司发现你仍在使用\nUplink客户端的试用版本，并且你已经达到了一个试用版用户\n所能达到的最高Uplink等级。\n\n基于安全原因，Uplink公司不能允许你作为一个自由黑客\n继续为本公司工作。\n鉴于此，我们已经终止了你的黑客档案\n并关闭了你的帐户。\n\n如果你有兴趣成为一名全职Uplink黑客，\n你必须购买Uplink CD的完整版。\n更多细节请访问我们的网站。\n\nwww.introversion.co.uk\n\n"
 
 en: "Judgement"
 cn: "Judgement"
@@ -5375,13 +5375,13 @@ en: "disavowed"
 cn: "disavowed"
 
 en: "We have recently been informed by a large corporation that you have \nbeen caught hacking into one of their primary computer systems.\n\nAs such, we have been forced to disavow all knowledge of your actions \nand strike you off the active agents list.\n\nYour gateway and accounts have already been siezed.\n\nLet this be a warning to be more careful next time."
-cn: "We have recently been informed by a large corporation that you have \nbeen caught hacking into one of their primary computer systems.\n\nAs such, we have been forced to disavow all knowledge of your actions \nand strike you off the active agents list.\n\nYour gateway and accounts have already been siezed.\n\nLet this be a warning to be more careful next time."
+cn: "我们最近接到一家大公司的报告，\n你在侵入他们的一个主要电脑系统时被当场抓获。\n\n基于此，我们不得不否认与你有任何关联，\n并且将你踢出活跃黑客名单。\n\n你的gateway和帐户已被冻结。\n\n希望这次警告能让你以后更小心谨慎。"
 
 en: "revelationwon"
 cn: "revelationwon"
 
 en: "There appears to be a serious problem\nwith our Core network service providers.\n\nThis may be the result of a virus.\n\nWe will try to restore serBVs sasa XXXX sas\n00sd00001010001  101 1 1011 10 \n\n\n1001 101 10 101000 1010 0 10010 010\n01010 0010 1001 1010 01001010 01 01 0\n01 1010 0 10110 00 010 01 0010 001010 \n01 010 012 0120 12 10 010 010 010 010 0\n\n00100 01 01 0 01 01 101 010 0010 01 0\n1001 101 10 101000 1010 0 10010 010\n01010 0010 1001 1010 01001010 01 01 0\n01 1010 0 10110 00 010 01 0010 001010 \n01 010 01 010 10 1 10 010 010 010 010 0\n00100 01 01 0 01 01 101 010 0010 01 0\n1001 101 10 1010001 01 1 00 110 010\n01010 0010 1001 1010 01001010 01 01 0\n01 1010 0 10110 00 010 01 0010 001010 \n01101 100 1  010  0 10 1 0 010 10 110 0\n00100 01 01 0 01 01 101 010 0010 01 0\n1001 101 10 101000 1010 0 10010 010\n01010 0010 1001 1010 01001010 01 01 0\n01 1010 0 10110 00 010 01 0010 001010 \n01 010 012 0120 12 10 010 010 010 010 0\n00100 110 1001 010 01001 1000010 01 0\n1001 101 10 101000 1010 0 10010 010\n01010 0010 1001 1010 01001010 01 01 0\n01 1010 0 10110 00 010 01 0010 001010 \n01 010 012 0120 12 10 010 010 010 010 0\n"
-cn: "There appears to be a serious problem\nwith our Core network service providers.\n\nThis may be the result of a virus.\n\nWe will try to restore serBVs sasa XXXX sas\n00sd00001010001  101 1 1011 10 \n\n\n1001 101 10 101000 1010 0 10010 010\n01010 0010 1001 1010 01001010 01 01 0\n01 1010 0 10110 00 010 01 0010 001010 \n01 010 012 0120 12 10 010 010 010 010 0\n\n00100 01 01 0 01 01 101 010 0010 01 0\n1001 101 10 101000 1010 0 10010 010\n01010 0010 1001 1010 01001010 01 01 0\n01 1010 0 10110 00 010 01 0010 001010 \n01 010 01 010 10 1 10 010 010 010 010 0\n00100 01 01 0 01 01 101 010 0010 01 0\n1001 101 10 1010001 01 1 00 110 010\n01010 0010 1001 1010 01001010 01 01 0\n01 1010 0 10110 00 010 01 0010 001010 \n01101 100 1  010  0 10 1 0 010 10 110 0\n00100 01 01 0 01 01 101 010 0010 01 0\n1001 101 10 101000 1010 0 10010 010\n01010 0010 1001 1010 01001010 01 01 0\n01 1010 0 10110 00 010 01 0010 001010 \n01 010 012 0120 12 10 010 010 010 010 0\n00100 110 1001 010 01001 1000010 01 0\n1001 101 10 101000 1010 0 10010 010\n01010 0010 1001 1010 01001010 01 01 0\n01 1010 0 10110 00 010 01 0010 001010 \n01 010 012 0120 12 10 010 010 010 010 0\n"
+cn: "看起来我们的核心网络供应商出了很严重的问题。\n\n这可能是由病毒造成的。\n\n我们尝试恢复serBVs sasa XXXX sas\n00sd00001010001  101 1 1011 10 \n\n\n1001 101 10 101000 1010 0 10010 010\n01010 0010 1001 1010 01001010 01 01 0\n01 1010 0 10110 00 010 01 0010 001010 \n01 010 012 0120 12 10 010 010 010 010 0\n\n00100 01 01 0 01 01 101 010 0010 01 0\n1001 101 10 101000 1010 0 10010 010\n01010 0010 1001 1010 01001010 01 01 0\n01 1010 0 10110 00 010 01 0010 001010 \n01 010 01 010 10 1 10 010 010 010 010 0\n00100 01 01 0 01 01 101 010 0010 01 0\n1001 101 10 1010001 01 1 00 110 010\n01010 0010 1001 1010 01001010 01 01 0\n01 1010 0 10110 00 010 01 0010 001010 \n01101 100 1  010  0 10 1 0 010 10 110 0\n00100 01 01 0 01 01 101 010 0010 01 0\n1001 101 10 101000 1010 0 10010 010\n01010 0010 1001 1010 01001010 01 01 0\n01 1010 0 10110 00 010 01 0010 001010 \n01 010 012 0120 12 10 010 010 010 010 0\n00100 110 1001 010 01001 1000010 01 0\n1001 101 10 101000 1010 0 10010 010\n01010 0010 1001 1010 01001010 01 01 0\n01 1010 0 10110 00 010 01 0010 001010 \n01 010 012 0120 12 10 010 010 010 010 0\n"
 
 en: "PASSWORD"
 cn: "PASSWORD"
@@ -5504,7 +5504,7 @@ en: "???????????Meet the makers"
 cn: "???????????Meet the makers"
 
 en: "Shutdown"
-cn: "Shutdown"
+cn: "关闭"
 
 en: "Uplink must be restarted\nbefore this change can occur"
 cn: "Uplink must be restarted\nbefore this change can occur"
