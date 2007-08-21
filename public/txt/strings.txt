@@ -5525,25 +5525,25 @@ en: "Apply all changes"
 cn: "应用所有改变"
 
 en: "We have terminated your connection to your Gateway.\n\nWe have been watching your moves for the last few days, \nand we have known for some time that you were working for \nAndromeda Research Corporation.\n\nRecent actions of that company, and your part in those actions, \nhave forced us to disavow your agent profile and knock you off \nthe active agent list.\n\nDespite the damage you have caused, Revelation has not succeeded.\n\nWe hope you will think more carefully about your actions next time."
-cn: "We have terminated your connection to your Gateway.\n\nWe have been watching your moves for the last few days, \nand we have known for some time that you were working for \nAndromeda Research Corporation.\n\nRecent actions of that company, and your part in those actions, \nhave forced us to disavow your agent profile and knock you off \nthe active agent list.\n\nDespite the damage you have caused, Revelation has not succeeded.\n\nWe hope you will think more carefully about your actions next time."
+cn: "我们已经终止了你与你的Gateway之间的连接。\n\n过去几天我们监视了你的行动，\n我们知道你已经为 \nAndromeda研究公司工作了一段时间。\n\n这家公司最近的举动，以及你在其中的参与，\n迫使我们必须否认与你的关联，并且将你踢出\n活跃黑客名单。\n\n虽然你造成了一些破坏，但Revelation并没有取得成功。\n\n我们希望下次你能更谨慎的考虑你的所作所为。"
 
 en: "Connection to GATEWAY lost"
-cn: "Connection to GATEWAY lost"
+cn: "与GATEWAY的连接丢失"
 
 en: "Connecting to GATEWAY..."
-cn: "Connecting to GATEWAY..."
+cn: "正在连接到GATEWAY..."
 
 en: "Lead Developer\n\nPretty much responsible for everything you see and do in this game.  Some might say he was the reason why this game is so self consciously pretentious at times.  Times like this in fact.\n\nThe creative vision behind Introversion Software.\nIts a lonely world."
-cn: "Lead Developer\n\nPretty much responsible for everything you see and do in this game.  Some might say he was the reason why this game is so self consciously pretentious at times.  Times like this in fact.\n\nThe creative vision behind Introversion Software.\nIts a lonely world."
+cn: "研发主管\n\n为你在这个游戏中所看到和所做的一切负责。有些人说他是把这个游戏搞得如此自恋的罪魁祸首。也许确实如此。\n\nIntroversion Software背后的创新视角。\n这是个孤独的世界。"
 
 en: "[Supposedly] CEO\n\nI have no idea what this person does."
-cn: "[Supposedly] CEO\n\nI have no idea what this person does."
+cn: "[Supposedly] CEO\n\n我不知道这个人是用来干嘛用的。"
 
 en: "Managing Director\n\nHandles all of the things I dont want to do, like writing business plans, talking to shop owners and stuff.\n\nCursed by his own intelligence and awareness, this guy is almost certainly doomed to a life of extreme unhappiness."
-cn: "Managing Director\n\nHandles all of the things I dont want to do, like writing business plans, talking to shop owners and stuff.\n\nCursed by his own intelligence and awareness, this guy is almost certainly doomed to a life of extreme unhappiness."
+cn: "总经理\n\n负责处理一切我不愿意干的事情，像是撰写商务计划，跟软件店主联系之类。\n\n受他自己的智力诅咒，这个家伙的一生注定要在极度郁闷中度过。"
 
 en: "Linux Support\n\nThe cleverest man I have (or will) ever meet.\nMostly responsible for all things related to that god-forsaken joke of an operating system.\n\nA great friend and source of inspiration as well."
-cn: "Linux Support\n\nThe cleverest man I have (or will) ever meet.\nMostly responsible for all things related to that god-forsaken joke of an operating system.\n\nA great friend and source of inspiration as well."
+cn: "Linux技术支持\n\n我所见过的最聪明的人。\nMostly responsible for all things related to that god-forsaken joke of an operating system.\n\n一个非常好的朋友，灵感的发源地。"
 
 en: "The last of the bedroom programmers\nThe first of the children\n\n\n\n\nand when wizards stay up late,\nnew worlds are born"
 cn: "The last of the bedroom programmers\nThe first of the children\n\n\n\n\nand when wizards stay up late,\nnew worlds are born"
